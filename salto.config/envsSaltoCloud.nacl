@@ -1,0 +1,12 @@
+envs {
+  envsCloud = [
+    {
+      uuid = "00d79fe3-0e3d-4717-88fc-976b9ac84846"
+      folderName = "CPQ UAT"
+    },
+    {
+      uuid = "2be1562b-6107-49b8-861a-26da36612f5d"
+      folderName = "CPQ Prod"
+    },
+  ]
+}
