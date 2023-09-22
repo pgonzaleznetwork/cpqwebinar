@@ -39,4 +39,7 @@ salesforce.Product2 LAPTOP15 {
   SBQQ__Taxable__c = false
   _alias = "LAPTOP15 Hardware 15\" Laptop"
   SBQQ__OptionLayout__c = "Sections"
+  Region__c = "South"
+  SBQQ__ConfigurationFormTitle__c = "CPQ"
+  SBQQ__ConfiguredCodePattern__c = "FR44"
 }
