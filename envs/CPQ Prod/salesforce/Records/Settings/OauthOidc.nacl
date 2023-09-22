@@ -1,7 +1,0 @@
-salesforce.OauthOidcSettings {
-  fullName = "OauthOidc"
-  blockOAuthUnPwFlow = "true"
-  blockOAuthUsrAgtFlow = "false"
-  oAuthCdCrdtFlowEnable = "false"
-  _alias = "OauthOidc"
-}
