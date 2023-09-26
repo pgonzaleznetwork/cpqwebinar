@@ -1,0 +1,16 @@
+envs {
+  envs = [
+    {
+      name = "b9b5c36a-665c-4d23-ae71-7757724a6f43-cpqwebinar2"
+      accountToServiceName = {
+        salesforce = "salesforce"
+      }
+    },
+    {
+      name = "cpqwebinar2"
+      accountToServiceName = {
+        salesforce = "salesforce"
+      }
+    },
+  ]
+}
