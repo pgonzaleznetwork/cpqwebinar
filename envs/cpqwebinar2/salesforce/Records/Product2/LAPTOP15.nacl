@@ -9,8 +9,8 @@ salesforce.Product2 LAPTOP15 {
   SBQQ__AssetConversion__c = "One per quote line"
   SBQQ__BlockPricingField__c = "Quantity"
   SBQQ__Component__c = true
-  SBQQ__ConfigurationEvent__c = "Always"
-  SBQQ__ConfigurationType__c = "Required"
+  SBQQ__ConfigurationEvent__c = "Add"
+  SBQQ__ConfigurationType__c = "Allowed"
   SBQQ__CostEditable__c = false
   SBQQ__CustomConfigurationRequired__c = false
   SBQQ__DefaultQuantity__c = 1
@@ -37,10 +37,10 @@ salesforce.Product2 LAPTOP15 {
   SBQQ__SubscriptionBase__c = "List"
   SBQQ__SubscriptionType__c = "Renewable"
   SBQQ__Taxable__c = false
-  SBQQ__OptionLayout__c = "Tabs"
+  SBQQ__OptionLayout__c = "Sections"
   Region__c = "South"
   SBQQ__ConfigurationFormTitle__c = "CPQ"
-  SBQQ__ConfiguredCodePattern__c = "FR443"
+  SBQQ__ConfiguredCodePattern__c = "FR44"
   SBQQ__SortOrder__c = 11
   _alias = "LAPTOP15 Hardware 15\" Laptop"
 }
