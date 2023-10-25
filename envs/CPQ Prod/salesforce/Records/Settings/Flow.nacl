@@ -17,10 +17,10 @@ salesforce.FlowSettings {
   enableFlowUseApexExceptionEmail = false
   enableFlowViaRestUsesUserCtxt = "false"
   enableLightningRuntimeEnabled = true
-  isAccessToInvokedApexRequired = false
+  
   isApexPluginAccessModifierRespected = true
   isEnhancedFlowListViewVisible = true
-  isFlowApexContextRetired = "true"
+  
   isFlowBlockAccessToSessionIDEnabled = "true"
   isManageFlowRequiredForAutomationCharts = false
   isSupportRollbackOnErrorForApexInvocableActionsEnabled = "false"
