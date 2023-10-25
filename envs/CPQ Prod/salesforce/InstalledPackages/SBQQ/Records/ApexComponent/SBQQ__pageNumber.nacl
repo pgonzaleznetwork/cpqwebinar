@@ -1,0 +1,12 @@
+salesforce.ApexComponent SBQQ__pageNumber {
+  apiVersion = 55
+  label = "pageNumber"
+  fullName = "SBQQ__pageNumber"
+  content = "(hidden)"
+  _generated_dependencies = [
+    {
+      reference = salesforce.InstalledPackage.instance.SBQQ
+    },
+  ]
+  _alias = "pageNumber (SBQQ)"
+}
