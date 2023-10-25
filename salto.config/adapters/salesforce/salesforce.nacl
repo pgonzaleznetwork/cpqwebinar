@@ -120,7 +120,6 @@ salesforce {
         "SBQQ__TimingLog__c",
       ]
       allowReferenceTo = [
-        "Product2",
         "Pricebook2",
         "PricebookEntry",
       ]
