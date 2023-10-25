@@ -267,12 +267,6 @@ type salesforce.RecordAction {
         default = false
       },
       {
-        fullName = "runtime_industries_epc__SimpleProduct"
-        isActive = true
-        label = "runtime_industries_epc__SimpleProduct"
-        default = false
-      },
-      {
         fullName = "runtime_industries_recurrence__Orch"
         isActive = true
         label = "runtime_industries_recurrence__Orch"
@@ -282,6 +276,12 @@ type salesforce.RecordAction {
         fullName = "runtime_industries_recurrence__Schdlr"
         isActive = true
         label = "runtime_industries_recurrence__Schdlr"
+        default = false
+      },
+      {
+        fullName = "runtime_payments__PayNowWithProducts"
+        isActive = true
+        label = "runtime_payments__PayNowWithProducts"
         default = false
       },
       {
@@ -407,12 +407,6 @@ type salesforce.RecordAction {
         default = false
       },
       {
-        fullName = "runtime_industries_epc__SimpleProduct"
-        isActive = true
-        label = "runtime_industries_epc__SimpleProduct"
-        default = false
-      },
-      {
         fullName = "runtime_industries_recurrence__Orch"
         isActive = true
         label = "runtime_industries_recurrence__Orch"
@@ -422,6 +416,12 @@ type salesforce.RecordAction {
         fullName = "runtime_industries_recurrence__Schdlr"
         isActive = true
         label = "runtime_industries_recurrence__Schdlr"
+        default = false
+      },
+      {
+        fullName = "runtime_payments__PayNowWithProducts"
+        isActive = true
+        label = "runtime_payments__PayNowWithProducts"
         default = false
       },
       {
