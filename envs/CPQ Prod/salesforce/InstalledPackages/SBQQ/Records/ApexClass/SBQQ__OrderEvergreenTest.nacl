@@ -1,0 +1,19 @@
+salesforce.ApexClass SBQQ__OrderEvergreenTest {
+  apiVersion = 55
+  packageVersions = [
+    {
+      majorNumber = 240
+      minorNumber = 5
+      namespace = "SBQQ"
+    },
+  ]
+  status = "Active"
+  fullName = "SBQQ__OrderEvergreenTest"
+  content = "(hidden)"
+  _generated_dependencies = [
+    {
+      reference = salesforce.InstalledPackage.instance.SBQQ
+    },
+  ]
+  _alias = "SBQQ__OrderEvergreenTest"
+}
