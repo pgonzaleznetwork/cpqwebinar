@@ -1,0 +1,19 @@
+salesforce.ApexClass SBQQ__ProductConfigurationControllerTests {
+  apiVersion = 55
+  packageVersions = [
+    {
+      majorNumber = 240
+      minorNumber = 5
+      namespace = "SBQQ"
+    },
+  ]
+  status = "Active"
+  fullName = "SBQQ__ProductConfigurationControllerTests"
+  content = "(hidden)"
+  _generated_dependencies = [
+    {
+      reference = salesforce.InstalledPackage.instance.SBQQ
+    },
+  ]
+  _alias = "SBQQ__ProductConfigurationControllerTests"
+}
