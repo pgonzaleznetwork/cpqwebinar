@@ -1,0 +1,6 @@
+salesforce.SBQQ__Cost__c a0707000002Mra6AAC {
+  SBQQ__Active__c = true
+  SBQQ__Product__c = salesforce.Product2.instance.RFIDFOB
+  SBQQ__UnitCost__c = 4
+  _alias = "COST-000061"
+}

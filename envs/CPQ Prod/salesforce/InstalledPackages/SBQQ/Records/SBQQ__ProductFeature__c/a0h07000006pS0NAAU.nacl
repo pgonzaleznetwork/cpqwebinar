@@ -1,0 +1,7 @@
+salesforce.SBQQ__ProductFeature__c a0h07000006pS0NAAU {
+  SBQQ__ConfiguredSKU__c = salesforce.Product2.instance.TELEWORKSTATION
+  SBQQ__MinOptionCount__c = 0
+  SBQQ__Number__c = 10
+  Name = "System Peripherals"
+  _alias = "TELEWORKSTATION Hardware Telecommuter Workstation System Peripherals"
+}
