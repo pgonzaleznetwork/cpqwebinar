@@ -1,0 +1,6 @@
+salesforce.SBQQ__Cost__c a0707000002MrZRAA0 {
+  SBQQ__Active__c = true
+  SBQQ__Product__c = salesforce.Product2.instance.PRODUCTIVITYSUITE
+  SBQQ__UnitCost__c = 10
+  _alias = "COST-000019"
+}

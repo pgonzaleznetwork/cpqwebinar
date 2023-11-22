@@ -1,0 +1,6 @@
+salesforce.SBQQ__Cost__c a0707000002Mra3AAC {
+  SBQQ__Active__c = true
+  SBQQ__Product__c = salesforce.Product2.instance.EXTERIORKEYPAD
+  SBQQ__UnitCost__c = 60
+  _alias = "COST-000058"
+}

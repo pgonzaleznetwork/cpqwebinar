@@ -1,0 +1,6 @@
+salesforce.SBQQ__Cost__c a0707000002MrZCAA0 {
+  SBQQ__Active__c = true
+  SBQQ__Product__c = salesforce.Product2.instance.CPU22GHZI7
+  SBQQ__UnitCost__c = 100
+  _alias = "COST-000004"
+}
