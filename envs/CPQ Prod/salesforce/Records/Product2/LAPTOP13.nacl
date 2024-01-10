@@ -38,4 +38,7 @@ salesforce.Product2 LAPTOP13 {
   SBQQ__SubscriptionType__c = "Renewable"
   SBQQ__Taxable__c = false
   _alias = "LAPTOP13 Hardware 13\" Laptop"
+  Description = "13\" Laptop"
+  SBQQ__ConfigurationEvent__c = "Always"
+  SBQQ__ConfigurationType__c = "Allowed"
 }

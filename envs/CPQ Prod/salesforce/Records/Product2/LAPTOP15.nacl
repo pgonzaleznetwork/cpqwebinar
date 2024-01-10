@@ -12,7 +12,7 @@ salesforce.Product2 LAPTOP15 {
   SBQQ__Component__c = true
   SBQQ__ConfigurationEvent__c = "Always"
   SBQQ__ConfigurationFormTitle__c = "CPQ"
-  SBQQ__ConfigurationType__c = "Allowed"
+  SBQQ__ConfigurationType__c = "Required"
   SBQQ__ConfiguredCodePattern__c = "FR443"
   SBQQ__CostEditable__c = false
   SBQQ__CustomConfigurationRequired__c = false
@@ -41,6 +41,6 @@ salesforce.Product2 LAPTOP15 {
   SBQQ__SortOrder__c = 11
   SBQQ__SubscriptionBase__c = "List"
   SBQQ__SubscriptionType__c = "Renewable"
-  SBQQ__Taxable__c = false
+  SBQQ__Taxable__c = true
   _alias = "LAPTOP15 Hardware 15\" Laptop"
 }
