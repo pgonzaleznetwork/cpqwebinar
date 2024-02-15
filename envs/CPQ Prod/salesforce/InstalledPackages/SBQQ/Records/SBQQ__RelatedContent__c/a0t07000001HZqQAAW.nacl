@@ -1,0 +1,7 @@
+salesforce.SBQQ__RelatedContent__c a0t07000001HZqQAAW {
+  SBQQ__ExternalId__c = "01507000000ghdg"
+  SBQQ__Product__c = salesforce.Product2.instance.PRODUCTIVITYSUITE
+  SBQQ__Required__c = false
+  Name = "Productivity Suite Data Sheet"
+  _alias = "Productivity Suite Data Sheet"
+}

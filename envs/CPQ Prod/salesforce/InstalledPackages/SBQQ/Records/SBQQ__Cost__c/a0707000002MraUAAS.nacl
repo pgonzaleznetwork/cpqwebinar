@@ -1,0 +1,6 @@
+salesforce.SBQQ__Cost__c a0707000002MraUAAS {
+  SBQQ__Active__c = true
+  SBQQ__Product__c = salesforce.Product2.instance.HOMESECURITYINSTALLATION
+  SBQQ__UnitCost__c = 175
+  _alias = "COST-000084"
+}

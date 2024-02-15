@@ -1,0 +1,7 @@
+salesforce.SBQQ__ProductFeature__c a0h07000006pS0KAAU {
+  SBQQ__ConfiguredSKU__c = salesforce.Product2.instance.SMARTPHONE6
+  SBQQ__MinOptionCount__c = 0
+  SBQQ__Number__c = 20
+  Name = "Service"
+  _alias = "SMARTPHONE6 Hardware 6\" Smartphone Service"
+}
