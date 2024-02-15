@@ -1,0 +1,46 @@
+type salesforce.GuestUserAnomalyEventStore {
+  salesforce.Unknown EventDate {
+    apiName = "GuestUserAnomalyEventStore.EventDate"
+    _hidden_value = true
+  }
+  salesforce.Unknown EventIdentifier {
+    apiName = "GuestUserAnomalyEventStore.EventIdentifier"
+    _hidden_value = true
+  }
+  salesforce.Unknown RequestedEntities {
+    apiName = "GuestUserAnomalyEventStore.RequestedEntities"
+    _hidden_value = true
+  }
+  salesforce.Unknown Score {
+    apiName = "GuestUserAnomalyEventStore.Score"
+    _hidden_value = true
+  }
+  salesforce.Unknown SoqlCommands {
+    apiName = "GuestUserAnomalyEventStore.SoqlCommands"
+    _hidden_value = true
+  }
+  salesforce.Unknown SourceIp {
+    apiName = "GuestUserAnomalyEventStore.SourceIp"
+    _hidden_value = true
+  }
+  salesforce.Unknown Summary {
+    apiName = "GuestUserAnomalyEventStore.Summary"
+    _hidden_value = true
+  }
+  salesforce.Unknown TotalControllerEvents {
+    apiName = "GuestUserAnomalyEventStore.TotalControllerEvents"
+    _hidden_value = true
+  }
+  salesforce.Unknown UserAgent {
+    apiName = "GuestUserAnomalyEventStore.UserAgent"
+    _hidden_value = true
+  }
+  salesforce.Lookup UserId {
+    apiName = "GuestUserAnomalyEventStore.UserId"
+    _hidden_value = true
+  }
+  salesforce.Unknown UserType {
+    apiName = "GuestUserAnomalyEventStore.UserType"
+    _hidden_value = true
+  }
+}
