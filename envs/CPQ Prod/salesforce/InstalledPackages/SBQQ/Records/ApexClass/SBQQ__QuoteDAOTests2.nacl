@@ -1,0 +1,19 @@
+salesforce.ApexClass SBQQ__QuoteDAOTests2 {
+  apiVersion = 55
+  packageVersions = [
+    {
+      majorNumber = 240
+      minorNumber = 5
+      namespace = "SBQQ"
+    },
+  ]
+  status = "Active"
+  fullName = "SBQQ__QuoteDAOTests2"
+  content = "(hidden)"
+  _generated_dependencies = [
+    {
+      reference = salesforce.InstalledPackage.instance.SBQQ
+    },
+  ]
+  _alias = "SBQQ__QuoteDAOTests2"
+}
