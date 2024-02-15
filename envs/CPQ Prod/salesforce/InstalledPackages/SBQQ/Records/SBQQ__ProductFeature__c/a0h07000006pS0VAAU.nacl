@@ -1,0 +1,7 @@
+salesforce.SBQQ__ProductFeature__c a0h07000006pS0VAAU {
+  SBQQ__ConfiguredSKU__c = salesforce.Product2.instance.4KVIDEOCAM
+  SBQQ__MinOptionCount__c = 0
+  SBQQ__Number__c = 10
+  Name = "Basics"
+  _alias = "4KVIDEOCAM Hardware 4K Video Camera Basics"
+}

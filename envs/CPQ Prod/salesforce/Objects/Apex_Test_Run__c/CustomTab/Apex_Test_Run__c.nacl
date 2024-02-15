@@ -1,0 +1,9 @@
+salesforce.CustomTab Apex_Test_Run__c {
+  fullName = "Apex_Test_Run__c"
+  customObject = true
+  motif = "Custom56: Bottle"
+  _parent = [
+    salesforce.Apex_Test_Run__c,
+  ]
+  _alias = "Apex_Test_Run__c"
+}

@@ -1,0 +1,6 @@
+salesforce.SBQQ__Cost__c a0707000002MrZbAAK {
+  SBQQ__Active__c = true
+  SBQQ__Product__c = salesforce.Product2.instance.PRINTERPAPERA4
+  SBQQ__UnitCost__c = 5
+  _alias = "COST-000030"
+}
