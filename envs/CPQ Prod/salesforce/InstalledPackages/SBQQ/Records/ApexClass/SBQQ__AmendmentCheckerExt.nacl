@@ -1,0 +1,19 @@
+salesforce.ApexClass SBQQ__AmendmentCheckerExt {
+  apiVersion = 55
+  packageVersions = [
+    {
+      majorNumber = 240
+      minorNumber = 5
+      namespace = "SBQQ"
+    },
+  ]
+  status = "Active"
+  fullName = "SBQQ__AmendmentCheckerExt"
+  content = file("salesforce/InstalledPackages/SBQQ/Records/ApexClass/SBQQ__AmendmentCheckerExt.cls")
+  _generated_dependencies = [
+    {
+      reference = salesforce.InstalledPackage.instance.SBQQ
+    },
+  ]
+  _alias = "SBQQ__AmendmentCheckerExt"
+}
