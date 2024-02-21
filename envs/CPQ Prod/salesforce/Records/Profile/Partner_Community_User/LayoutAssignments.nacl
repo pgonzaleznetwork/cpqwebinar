@@ -900,5 +900,50 @@ salesforce.Profile Partner_Community_User@s {
         layout = "WorkStepTemplate-Work Step Template Layout"
       },
     ]
+    New_Profile_Object__c_New_Profile_Object_Layout@uuuubsss = [
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.eight"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.five"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.four"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.nine"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.one"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.seven"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.six"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.ten"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.three"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.two"
+      },
+    ]
   }
 }

@@ -1548,5 +1548,14 @@ salesforce.Profile Admin {
       object = "WorkStepTemplate"
       viewAllRecords = true
     }
+    New_Profile_Object__c = {
+      allowCreate = true
+      allowDelete = true
+      allowEdit = true
+      allowRead = true
+      modifyAllRecords = true
+      object = "New_Profile_Object__c"
+      viewAllRecords = true
+    }
   }
 }
