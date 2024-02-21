@@ -1,0 +1,289 @@
+salesforce.Profile Minimum_Access___Salesforce@ssbs {
+  layoutAssignments = {
+    AlternativePaymentMethod_Alternative_Payment_Method_Layout@bsss = [
+      {
+        layout = "AlternativePaymentMethod-Alternative Payment Method Layout"
+      },
+    ]
+    ApiAnomalyEventStore_API_Anomaly_Event_Store_Layout@bssss = [
+      {
+        layout = "ApiAnomalyEventStore-API Anomaly Event Store Layout"
+      },
+    ]
+    AssetAction_Asset_Action_Layout@bss = [
+      {
+        layout = "AssetAction-Asset Action Layout"
+      },
+    ]
+    AssetActionSource_Asset_Action_Source_Layout@bsss = [
+      {
+        layout = "AssetActionSource-Asset Action Source Layout"
+      },
+    ]
+    AssetStatePeriod_Asset_State_Period_Layout@bsss = [
+      {
+        layout = "AssetStatePeriod-Asset State Period Layout"
+      },
+    ]
+    AssociatedLocation_Associated_Location_Layout@bss = [
+      {
+        layout = "AssociatedLocation-Associated Location Layout"
+      },
+    ]
+    AuthorizationForm_Authorization_Form_Layout@bss = [
+      {
+        layout = "AuthorizationForm-Authorization Form Layout"
+      },
+    ]
+    AuthorizationFormConsent_Authorization_Form_Consent_Layout@bsss = [
+      {
+        layout = "AuthorizationFormConsent-Authorization Form Consent Layout"
+      },
+    ]
+    AuthorizationFormDataUse_Authorization_Form_Data_Use_Layout@bssss = [
+      {
+        layout = "AuthorizationFormDataUse-Authorization Form Data Use Layout"
+      },
+    ]
+    AuthorizationFormText_Authorization_Form_Text_Layout@bsss = [
+      {
+        layout = "AuthorizationFormText-Authorization Form Text Layout"
+      },
+    ]
+    BusinessBrand_Business_Brand_Layout@bss = [
+      {
+        layout = "BusinessBrand-Business Brand Layout"
+      },
+    ]
+    CardPaymentMethod_Card_Payment_Method_Layout@bsss = [
+      {
+        layout = "CardPaymentMethod-Card Payment Method Layout"
+      },
+    ]
+    CaseMilestone_Case_Milestone_Layout@bss = [
+      {
+        layout = "CaseMilestone-Case Milestone Layout"
+      },
+    ]
+    ContactPointAddress_Contact_Point_Address_Layout@bsss = [
+      {
+        layout = "ContactPointAddress-Contact Point Address Layout"
+      },
+    ]
+    ContactPointEmail_Contact_Point_Email_Layout@bsss = [
+      {
+        layout = "ContactPointEmail-Contact Point Email Layout"
+      },
+    ]
+    ContactPointPhone_Contact_Point_Phone_Layout@bsss = [
+      {
+        layout = "ContactPointPhone-Contact Point Phone Layout"
+      },
+    ]
+    ContactPointTypeConsent_Contact_Point_Type_Consent_Layout@bssss = [
+      {
+        layout = "ContactPointTypeConsent-Contact Point Type Consent Layout"
+      },
+    ]
+    ContractLineItem_Contract_Line_Item_Layout@bsss = [
+      {
+        layout = "ContractLineItem-Contract Line Item Layout"
+      },
+    ]
+    CredentialStuffingEventStore_Credential_Stuffing_Event_Store_Layout@bssss = [
+      {
+        layout = "CredentialStuffingEventStore-Credential Stuffing Event Store Layout"
+      },
+    ]
+    CreditMemo_Credit_Memo_Layout@bss = [
+      {
+        layout = "CreditMemo-Credit Memo Layout"
+      },
+    ]
+    CreditMemoLine_Credit_Memo_Line_Layout@bsss = [
+      {
+        layout = "CreditMemoLine-Credit Memo Line Layout"
+      },
+    ]
+    Customer_Customer_Layout@bs = [
+      {
+        layout = "Customer-Customer Layout"
+      },
+    ]
+    DataUseLegalBasis_Data_Use_Legal_Basis_Layout@bssss = [
+      {
+        layout = "DataUseLegalBasis-Data Use Legal Basis Layout"
+      },
+    ]
+    DataUsePurpose_Data_Use_Purpose_Layout@bsss = [
+      {
+        layout = "DataUsePurpose-Data Use Purpose Layout"
+      },
+    ]
+    DigitalWallet_Digital_Wallet_Layout@bss = [
+      {
+        layout = "DigitalWallet-Digital Wallet Layout"
+      },
+    ]
+    Entitlement_Entitlement_Layout@bs = [
+      {
+        layout = "Entitlement-Entitlement Layout"
+      },
+    ]
+    EntityMilestone_Object_Milestone_Layout@bss = [
+      {
+        layout = "EntityMilestone-Object Milestone Layout"
+      },
+    ]
+    FinanceBalanceSnapshot_Finance_Balance_Snapshot_Layout@bsss = [
+      {
+        layout = "FinanceBalanceSnapshot-Finance Balance Snapshot Layout"
+      },
+    ]
+    FinanceTransaction_Finance_Transaction_Layout@bss = [
+      {
+        layout = "FinanceTransaction-Finance Transaction Layout"
+      },
+    ]
+    IndustryPrice__c_Industry_Price_Layout@uubss = [
+      {
+        layout = "IndustryPrice__c-Industry Price Layout"
+      },
+    ]
+    Invoice_Invoice_Layout@bs = [
+      {
+        layout = "Invoice-Invoice Layout"
+      },
+    ]
+    InvoiceLine_Invoice_Line_Layout@bss = [
+      {
+        layout = "InvoiceLine-Invoice Line Layout"
+      },
+    ]
+    LegalEntity_Legal_Entity_Layout@bss = [
+      {
+        layout = "LegalEntity-Legal Entity Layout"
+      },
+    ]
+    Location_Location_Layout@bs = [
+      {
+        layout = "Location-Location Layout"
+      },
+    ]
+    OutletLocale__c_Outlet_Locale_Layout@uubss = [
+      {
+        layout = "OutletLocale__c-Outlet Locale Layout"
+      },
+    ]
+    Payment_Payment_Layout@bs = [
+      {
+        layout = "Payment-Payment Layout"
+      },
+    ]
+    PaymentAuthAdjustment_Payment_Authorization_Adjustment_Layout@bsss = [
+      {
+        layout = "PaymentAuthAdjustment-Payment Authorization Adjustment Layout"
+      },
+    ]
+    PaymentAuthorization_Payment_Authorization_Layout@bss = [
+      {
+        layout = "PaymentAuthorization-Payment Authorization Layout"
+      },
+    ]
+    PaymentGateway_Payment_Gateway_Layout@bss = [
+      {
+        layout = "PaymentGateway-Payment Gateway Layout"
+      },
+    ]
+    PaymentGatewayLog_Payment_Gateway_Log_Layout@bsss = [
+      {
+        layout = "PaymentGatewayLog-Payment Gateway Log Layout"
+      },
+    ]
+    PaymentGroup_Payment_Group_Layout@bss = [
+      {
+        layout = "PaymentGroup-Payment Group Layout"
+      },
+    ]
+    PaymentLineInvoice_Payment_Line_Invoice_Layout@bsss = [
+      {
+        layout = "PaymentLineInvoice-Payment Line Invoice Layout"
+      },
+    ]
+    ProcessException_Process_Exception_Layout@bss = [
+      {
+        layout = "ProcessException-Process Exception Layout"
+      },
+    ]
+    Refund_Refund_Layout@bs = [
+      {
+        layout = "Refund-Refund Layout"
+      },
+    ]
+    RefundLinePayment_Refund_Line_Payment_Layout@bsss = [
+      {
+        layout = "RefundLinePayment-Refund Line Payment Layout"
+      },
+    ]
+    ReportAnomalyEventStore_Report_Anomaly_Event_Store_Layout@bssss = [
+      {
+        layout = "ReportAnomalyEventStore-Report Anomaly Event Store Layout"
+      },
+    ]
+    Seller_Seller_Layout@bs = [
+      {
+        layout = "Seller-Seller Layout"
+      },
+    ]
+    ServiceContract_Service_Contract_Layout@bss = [
+      {
+        layout = "ServiceContract-Service Contract Layout"
+      },
+    ]
+    SessionHijackingEventStore_Session_Hijacking_Event_Store_Layout@bssss = [
+      {
+        layout = "SessionHijackingEventStore-Session Hijacking Event Store Layout"
+      },
+    ]
+    ThreatDetectionFeedback_Threat_Detection_Feedback_Layout@bsss = [
+      {
+        layout = "ThreatDetectionFeedback-Threat Detection Feedback Layout"
+      },
+    ]
+    WorkOrder_Work_Order_Layout@bss = [
+      {
+        layout = "WorkOrder-Work Order Layout"
+      },
+    ]
+    WorkOrderLineItem_Work_Order_Line_Item_Layout@bssss = [
+      {
+        layout = "WorkOrderLineItem-Work Order Line Item Layout"
+      },
+    ]
+    WorkPlan_Work_Plan_Layout@bss = [
+      {
+        layout = "WorkPlan-Work Plan Layout"
+      },
+    ]
+    WorkPlanTemplate_Work_Plan_Template_Layout@bsss = [
+      {
+        layout = "WorkPlanTemplate-Work Plan Template Layout"
+      },
+    ]
+    WorkPlanTemplateEntry_Work_Plan_Template_Entry_Layout@bssss = [
+      {
+        layout = "WorkPlanTemplateEntry-Work Plan Template Entry Layout"
+      },
+    ]
+    WorkStep_Work_Step_Layout@bss = [
+      {
+        layout = "WorkStep-Work Step Layout"
+      },
+    ]
+    WorkStepTemplate_Work_Step_Template_Layout@bsss = [
+      {
+        layout = "WorkStepTemplate-Work Step Template Layout"
+      },
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+salesforce.Profile Analytics_Cloud_Integration_User@s {
+  customPermissions = {
+    SBQQ__HideGlobalHeader = {
+      enabled = true
+      name = "SBQQ__HideGlobalHeader"
+    }
+  }
+}

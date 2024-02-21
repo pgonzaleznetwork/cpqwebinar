@@ -1,0 +1,8 @@
+salesforce.Profile Identity_User@s {
+  customPermissions = {
+    SBQQ__HideGlobalHeader = {
+      enabled = true
+      name = "SBQQ__HideGlobalHeader"
+    }
+  }
+}
