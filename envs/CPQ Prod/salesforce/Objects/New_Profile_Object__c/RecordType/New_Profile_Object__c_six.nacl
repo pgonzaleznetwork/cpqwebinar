@@ -1,0 +1,9 @@
+salesforce.RecordType New_Profile_Object__c_six {
+  fullName = "New_Profile_Object__c.six"
+  active = true
+  label = "six"
+  _parent = [
+    salesforce.New_Profile_Object__c,
+  ]
+  _alias = "six"
+}
