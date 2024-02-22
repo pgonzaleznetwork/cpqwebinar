@@ -1,0 +1,949 @@
+salesforce.Profile External_Identity_User@s {
+  layoutAssignments = {
+    Account_Account_Layout@bs = [
+      {
+        layout = "Account-Account Layout"
+      },
+    ]
+    AlternativePaymentMethod_Alternative_Payment_Method_Layout@bsss = [
+      {
+        layout = "AlternativePaymentMethod-Alternative Payment Method Layout"
+      },
+    ]
+    ApiAnomalyEventStore_API_Anomaly_Event_Store_Layout@bssss = [
+      {
+        layout = "ApiAnomalyEventStore-API Anomaly Event Store Layout"
+      },
+    ]
+    Asset_Asset_Layout@bs = [
+      {
+        layout = "Asset-Asset Layout"
+      },
+    ]
+    AssetAction_Asset_Action_Layout@bss = [
+      {
+        layout = "AssetAction-Asset Action Layout"
+      },
+    ]
+    AssetActionSource_Asset_Action_Source_Layout@bsss = [
+      {
+        layout = "AssetActionSource-Asset Action Source Layout"
+      },
+    ]
+    AssetRelationship_Asset_Relationship_Layout@bss = [
+      {
+        layout = "AssetRelationship-Asset Relationship Layout"
+      },
+    ]
+    AssetStatePeriod_Asset_State_Period_Layout@bsss = [
+      {
+        layout = "AssetStatePeriod-Asset State Period Layout"
+      },
+    ]
+    AssociatedLocation_Associated_Location_Layout@bss = [
+      {
+        layout = "AssociatedLocation-Associated Location Layout"
+      },
+    ]
+    AuthorizationForm_Authorization_Form_Layout@bss = [
+      {
+        layout = "AuthorizationForm-Authorization Form Layout"
+      },
+    ]
+    AuthorizationFormConsent_Authorization_Form_Consent_Layout@bsss = [
+      {
+        layout = "AuthorizationFormConsent-Authorization Form Consent Layout"
+      },
+    ]
+    AuthorizationFormDataUse_Authorization_Form_Data_Use_Layout@bssss = [
+      {
+        layout = "AuthorizationFormDataUse-Authorization Form Data Use Layout"
+      },
+    ]
+    AuthorizationFormText_Authorization_Form_Text_Layout@bsss = [
+      {
+        layout = "AuthorizationFormText-Authorization Form Text Layout"
+      },
+    ]
+    BusinessBrand_Business_Brand_Layout@bss = [
+      {
+        layout = "BusinessBrand-Business Brand Layout"
+      },
+    ]
+    Campaign_Campaign_Layout@bs = [
+      {
+        layout = "Campaign-Campaign Layout"
+      },
+    ]
+    CampaignMember_Campaign_Member_Page_Layout@bsss = [
+      {
+        layout = "CampaignMember-Campaign Member Page Layout"
+      },
+    ]
+    CardPaymentMethod_Card_Payment_Method_Layout@bsss = [
+      {
+        layout = "CardPaymentMethod-Card Payment Method Layout"
+      },
+    ]
+    Case_Case_Layout@bs = [
+      {
+        layout = "Case-Case Layout"
+      },
+    ]
+    CaseClose_Close_Case_Layout@bss = [
+      {
+        layout = "CaseClose-Close Case Layout"
+      },
+    ]
+    CaseMilestone_Case_Milestone_Layout@bss = [
+      {
+        layout = "CaseMilestone-Case Milestone Layout"
+      },
+    ]
+    CommunityMemberLayout_Community_Member_Layout@bss = [
+      {
+        layout = "CommunityMemberLayout-Community Member Layout"
+      },
+    ]
+    ConsumptionRate_Consumption_Rate_Layout@bss = [
+      {
+        layout = "ConsumptionRate-Consumption Rate Layout"
+      },
+    ]
+    ConsumptionSchedule_Consumption_Schedule_Layout@bss = [
+      {
+        layout = "ConsumptionSchedule-Consumption Schedule Layout"
+      },
+    ]
+    Contact_Contact_Layout@bs = [
+      {
+        layout = "Contact-Contact Layout"
+      },
+    ]
+    ContactPointAddress_Contact_Point_Address_Layout@bsss = [
+      {
+        layout = "ContactPointAddress-Contact Point Address Layout"
+      },
+    ]
+    ContactPointEmail_Contact_Point_Email_Layout@bsss = [
+      {
+        layout = "ContactPointEmail-Contact Point Email Layout"
+      },
+    ]
+    ContactPointPhone_Contact_Point_Phone_Layout@bsss = [
+      {
+        layout = "ContactPointPhone-Contact Point Phone Layout"
+      },
+    ]
+    ContactPointTypeConsent_Contact_Point_Type_Consent_Layout@bssss = [
+      {
+        layout = "ContactPointTypeConsent-Contact Point Type Consent Layout"
+      },
+    ]
+    ContentVersion_Content_Version_Layout@bss = [
+      {
+        layout = "ContentVersion-Content Version Layout"
+      },
+    ]
+    Contract_Contract_Layout@bs = [
+      {
+        layout = "Contract-Contract Layout"
+      },
+    ]
+    ContractLineItem_Contract_Line_Item_Layout@bsss = [
+      {
+        layout = "ContractLineItem-Contract Line Item Layout"
+      },
+    ]
+    CredentialStuffingEventStore_Credential_Stuffing_Event_Store_Layout@bssss = [
+      {
+        layout = "CredentialStuffingEventStore-Credential Stuffing Event Store Layout"
+      },
+    ]
+    CreditMemo_Credit_Memo_Layout@bss = [
+      {
+        layout = "CreditMemo-Credit Memo Layout"
+      },
+    ]
+    CreditMemoLine_Credit_Memo_Line_Layout@bsss = [
+      {
+        layout = "CreditMemoLine-Credit Memo Line Layout"
+      },
+    ]
+    Customer_Customer_Layout@bs = [
+      {
+        layout = "Customer-Customer Layout"
+      },
+    ]
+    DandBCompany_D_26B_Company_Layout@bpss = [
+      {
+        layout = "DandBCompany-D%26B Company Layout"
+      },
+    ]
+    DataUseLegalBasis_Data_Use_Legal_Basis_Layout@bssss = [
+      {
+        layout = "DataUseLegalBasis-Data Use Legal Basis Layout"
+      },
+    ]
+    DataUsePurpose_Data_Use_Purpose_Layout@bsss = [
+      {
+        layout = "DataUsePurpose-Data Use Purpose Layout"
+      },
+    ]
+    DigitalWallet_Digital_Wallet_Layout@bss = [
+      {
+        layout = "DigitalWallet-Digital Wallet Layout"
+      },
+    ]
+    DuplicateRecordSet_Duplicate_Record_Set_Layout@bsss = [
+      {
+        layout = "DuplicateRecordSet-Duplicate Record Set Layout"
+      },
+    ]
+    EmailMessage_Email_Message_Layout@bss = [
+      {
+        layout = "EmailMessage-Email Message Layout"
+      },
+    ]
+    Entitlement_Entitlement_Layout@bs = [
+      {
+        layout = "Entitlement-Entitlement Layout"
+      },
+    ]
+    EntityMilestone_Object_Milestone_Layout@bss = [
+      {
+        layout = "EntityMilestone-Object Milestone Layout"
+      },
+    ]
+    Event_Event_Layout@bs = [
+      {
+        layout = "Event-Event Layout"
+      },
+    ]
+    FeedItem_Feed_Item_Layout@bss = [
+      {
+        layout = "FeedItem-Feed Item Layout"
+      },
+    ]
+    FinanceBalanceSnapshot_Finance_Balance_Snapshot_Layout@bsss = [
+      {
+        layout = "FinanceBalanceSnapshot-Finance Balance Snapshot Layout"
+      },
+    ]
+    FinanceTransaction_Finance_Transaction_Layout@bss = [
+      {
+        layout = "FinanceTransaction-Finance Transaction Layout"
+      },
+    ]
+    Global_Global_Layout@bs = [
+      {
+        layout = "Global-Global Layout"
+      },
+    ]
+    Idea_Idea_Layout@bs = [
+      {
+        layout = "Idea-Idea Layout"
+      },
+    ]
+    Individual_Individual_Layout@bs = [
+      {
+        layout = "Individual-Individual Layout"
+      },
+    ]
+    IndustryPrice__c_Industry_Price_Layout@uubss = [
+      {
+        layout = "IndustryPrice__c-Industry Price Layout"
+      },
+    ]
+    Invoice_Invoice_Layout@bs = [
+      {
+        layout = "Invoice-Invoice Layout"
+      },
+    ]
+    InvoiceLine_Invoice_Line_Layout@bss = [
+      {
+        layout = "InvoiceLine-Invoice Line Layout"
+      },
+    ]
+    Lead_Lead_Layout@bs = [
+      {
+        layout = "Lead-Lead Layout"
+      },
+    ]
+    LegalEntity_Legal_Entity_Layout@bss = [
+      {
+        layout = "LegalEntity-Legal Entity Layout"
+      },
+    ]
+    Location_Location_Layout@bs = [
+      {
+        layout = "Location-Location Layout"
+      },
+    ]
+    Macro_Macro_Layout@bs = [
+      {
+        layout = "Macro-Macro Layout"
+      },
+    ]
+    Opportunity_Opportunity_Layout@bs = [
+      {
+        layout = "Opportunity-Opportunity Layout"
+      },
+    ]
+    OpportunityLineItem_Opportunity_Product_Layout@bss = [
+      {
+        layout = "OpportunityLineItem-Opportunity Product Layout"
+      },
+    ]
+    Order_Order_Layout@bs = [
+      {
+        layout = "Order-Order Layout"
+      },
+    ]
+    OrderItem_Order_Product_Layout@bss = [
+      {
+        layout = "OrderItem-Order Product Layout"
+      },
+    ]
+    OutletLocale__c_Outlet_Locale_Layout@uubss = [
+      {
+        layout = "OutletLocale__c-Outlet Locale Layout"
+      },
+    ]
+    Payment_Payment_Layout@bs = [
+      {
+        layout = "Payment-Payment Layout"
+      },
+    ]
+    PaymentAuthAdjustment_Payment_Authorization_Adjustment_Layout@bsss = [
+      {
+        layout = "PaymentAuthAdjustment-Payment Authorization Adjustment Layout"
+      },
+    ]
+    PaymentAuthorization_Payment_Authorization_Layout@bss = [
+      {
+        layout = "PaymentAuthorization-Payment Authorization Layout"
+      },
+    ]
+    PaymentGateway_Payment_Gateway_Layout@bss = [
+      {
+        layout = "PaymentGateway-Payment Gateway Layout"
+      },
+    ]
+    PaymentGatewayLog_Payment_Gateway_Log_Layout@bsss = [
+      {
+        layout = "PaymentGatewayLog-Payment Gateway Log Layout"
+      },
+    ]
+    PaymentGroup_Payment_Group_Layout@bss = [
+      {
+        layout = "PaymentGroup-Payment Group Layout"
+      },
+    ]
+    PaymentLineInvoice_Payment_Line_Invoice_Layout@bsss = [
+      {
+        layout = "PaymentLineInvoice-Payment Line Invoice Layout"
+      },
+    ]
+    Pricebook2_Price_Book_Layout@bss = [
+      {
+        layout = "Pricebook2-Price Book Layout"
+      },
+    ]
+    PricebookEntry_Price_Book_Entry_Layout@bsss = [
+      {
+        layout = "PricebookEntry-Price Book Entry Layout"
+      },
+    ]
+    ProcessException_Process_Exception_Layout@bss = [
+      {
+        layout = "ProcessException-Process Exception Layout"
+      },
+    ]
+    Product2_Product_Layout@bs = [
+      {
+        layout = "Product2-Product Layout"
+      },
+    ]
+    ProductConsumptionSchedule_Product_Consumption_Schedule_Layout@bsss = [
+      {
+        layout = "ProductConsumptionSchedule-Product Consumption Schedule Layout"
+      },
+    ]
+    QuickText_Quick_Text_Layout@bss = [
+      {
+        layout = "QuickText-Quick Text Layout"
+      },
+    ]
+    Refund_Refund_Layout@bs = [
+      {
+        layout = "Refund-Refund Layout"
+      },
+    ]
+    RefundLinePayment_Refund_Line_Payment_Layout@bsss = [
+      {
+        layout = "RefundLinePayment-Refund Line Payment Layout"
+      },
+    ]
+    ReportAnomalyEventStore_Report_Anomaly_Event_Store_Layout@bssss = [
+      {
+        layout = "ReportAnomalyEventStore-Report Anomaly Event Store Layout"
+      },
+    ]
+    SBQQ__AttributeSet__c_SBQQ__Attribute_Set_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__AttributeSet__c-SBQQ__Attribute Set Layout"
+      },
+    ]
+    SBQQ__AttributeValue__c_SBQQ__Attribute_Value_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__AttributeValue__c-SBQQ__Attribute Value Layout"
+      },
+    ]
+    SBQQ__BlockPrice__c_SBQQ__Block_Price_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__BlockPrice__c-SBQQ__Block Price Layout"
+      },
+    ]
+    SBQQ__ColumnMetadata__c_SBQQ__Column_Metadata_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ColumnMetadata__c-SBQQ__Column Metadata Layout"
+      },
+    ]
+    SBQQ__ConfigurationAttribute__c_SBQQ__Configuration_Attribute_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ConfigurationAttribute__c-SBQQ__Configuration Attribute Layout"
+      },
+      {
+        layout = "SBQQ__ConfigurationAttribute__c-SBQQ__Configuration Attribute Layout"
+        recordType = "SBQQ__ConfigurationAttribute__c.SBQQ__Configuration_Attribute"
+      },
+    ]
+    SBQQ__ConfigurationAttribute__c_SBQQ__Global_Attribute_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ConfigurationAttribute__c-SBQQ__Global Attribute Layout"
+        recordType = "SBQQ__ConfigurationAttribute__c.SBQQ__Global_Attribute"
+      },
+    ]
+    SBQQ__ConfigurationRule__c_SBQQ__Configuration_Rule_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ConfigurationRule__c-SBQQ__Configuration Rule Layout"
+      },
+    ]
+    SBQQ__ContractedPrice__c_SBQQ__Contracted_Price_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ContractedPrice__c-SBQQ__Contracted Price Layout"
+      },
+    ]
+    SBQQ__Cost__c_SBQQ__Cost_Layout@uuuubuus = [
+      {
+        layout = "SBQQ__Cost__c-SBQQ__Cost Layout"
+      },
+    ]
+    SBQQ__CustomActionCondition__c_SBQQ__Custom_Action_Condition_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__CustomActionCondition__c-SBQQ__Custom Action Condition Layout"
+      },
+    ]
+    SBQQ__CustomAction__c_SBQQ__Custom_Action_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__CustomAction__c-SBQQ__Custom Action Layout"
+      },
+    ]
+    SBQQ__CustomScript__c_SBQQ__Custom_Script_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__CustomScript__c-SBQQ__Custom Script Layout"
+      },
+    ]
+    SBQQ__Dimension__c_SBQQ__Price_Dimension_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__Dimension__c-SBQQ__Price Dimension Layout"
+      },
+    ]
+    SBQQ__DiscountCategory__c_SBQQ__Discount_Category_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__DiscountCategory__c-SBQQ__Discount Category Layout"
+      },
+    ]
+    SBQQ__DiscountSchedule__c_SBQQ__Discount_Schedule_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__DiscountSchedule__c-SBQQ__Discount Schedule Layout"
+      },
+    ]
+    SBQQ__DiscountTier__c_SBQQ__Discount_Schedule_Tier_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__DiscountTier__c-SBQQ__Discount Schedule Tier Layout"
+      },
+    ]
+    SBQQ__ErrorCondition__c_SBQQ__Error_Condition_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ErrorCondition__c-SBQQ__Error Condition Layout"
+      },
+    ]
+    SBQQ__FavoriteProduct__c_SBQQ__Favorite_Product_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__FavoriteProduct__c-SBQQ__Favorite Product Layout"
+      },
+    ]
+    SBQQ__FavoriteShare__c_SBQQ__Favorite_Share_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__FavoriteShare__c-SBQQ__Favorite Share Layout"
+      },
+    ]
+    SBQQ__Favorite__c_SBQQ__Favorite_Layout@uuuubuus = [
+      {
+        layout = "SBQQ__Favorite__c-SBQQ__Favorite Layout"
+      },
+    ]
+    SBQQ__FieldSetMetadata__c_SBQQ__FieldSet_Metadata_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__FieldSetMetadata__c-SBQQ__FieldSet Metadata Layout"
+      },
+    ]
+    SBQQ__ImportColumn__c_SBQQ__Import_Column_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ImportColumn__c-SBQQ__Import Column Layout"
+      },
+    ]
+    SBQQ__ImportFormat__c_SBQQ__Import_Format_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ImportFormat__c-SBQQ__Import Format Layout"
+      },
+    ]
+    SBQQ__InstallProcessorLog__c_SBQQ__Install_Processor_Log_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__InstallProcessorLog__c-SBQQ__Install Processor Log Layout"
+      },
+    ]
+    SBQQ__LineColumn__c_SBQQ__Line_Column_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__LineColumn__c-SBQQ__Line Column Layout"
+      },
+    ]
+    SBQQ__Localization__c_SBQQ__Localization_Layout@uuuubuus = [
+      {
+        layout = "SBQQ__Localization__c-SBQQ__Localization Layout"
+      },
+    ]
+    SBQQ__LookupData__c_SBQQ__Lookup_Data_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__LookupData__c-SBQQ__Lookup Data Layout"
+      },
+    ]
+    SBQQ__LookupQuery__c_SBQQ__Lookup_Query_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__LookupQuery__c-SBQQ__Lookup Query Layout"
+      },
+    ]
+    SBQQ__OptionConstraint__c_SBQQ__Option_Constraint_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__OptionConstraint__c-SBQQ__Option Constraint Layout"
+      },
+    ]
+    SBQQ__OrderItemConsumptionRate__c_SBQQ__Order_Item_Consumption_Rate_Layout@uuuubuussss = [
+      {
+        layout = "SBQQ__OrderItemConsumptionRate__c-SBQQ__Order Item Consumption Rate Layout"
+      },
+    ]
+    SBQQ__OrderItemConsumptionSchedule__c_SBQQ__Order_Product_Consumption_Schedule_Layout@uuuubuussss = [
+      {
+        layout = "SBQQ__OrderItemConsumptionSchedule__c-SBQQ__Order Product Consumption Schedule Layout"
+      },
+    ]
+    SBQQ__PriceAction__c_SBQQ__Price_Action_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__PriceAction__c-SBQQ__Price Action Layout"
+      },
+    ]
+    SBQQ__PriceCondition__c_SBQQ__Price_Condition_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__PriceCondition__c-SBQQ__Price Condition Layout"
+      },
+    ]
+    SBQQ__PriceRule__c_SBQQ__Price_Rule_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__PriceRule__c-SBQQ__Price Rule Layout"
+      },
+    ]
+    SBQQ__PriceSchedule__c_SBQQ__Price_Schedule_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__PriceSchedule__c-SBQQ__Price Schedule Layout"
+      },
+    ]
+    SBQQ__PriceTier__c_SBQQ__Price_Tier_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__PriceTier__c-SBQQ__Price Tier Layout"
+      },
+    ]
+    SBQQ__PricingGuidanceTier__c_SBQQ__Pricing_Guidance_Tier_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__PricingGuidanceTier__c-SBQQ__Pricing Guidance Tier Layout"
+      },
+    ]
+    SBQQ__PricingGuidance__c_SBQQ__Pricing_Guidance_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__PricingGuidance__c-SBQQ__Pricing Guidance Layout"
+      },
+    ]
+    SBQQ__ProcessInputCondition__c_SBQQ__Process_Input_Condition_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__ProcessInputCondition__c-SBQQ__Process Input Condition Layout"
+      },
+    ]
+    SBQQ__ProcessInputValue__c_SBQQ__Process_Input_Values_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__ProcessInputValue__c-SBQQ__Process Input Values Layout"
+      },
+    ]
+    SBQQ__ProcessInput__c_SBQQ__Process_Input_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ProcessInput__c-SBQQ__Process Input Layout"
+      },
+    ]
+    SBQQ__ProductAction__c_SBQQ__Product_Action_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ProductAction__c-SBQQ__Product Action Layout"
+      },
+    ]
+    SBQQ__ProductAttributeSet__c_SBQQ__Product_Attribute_Set_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__ProductAttributeSet__c-SBQQ__Product Attribute Set Layout"
+      },
+    ]
+    SBQQ__ProductAttribute__c_SBQQ__Product_Attribute_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ProductAttribute__c-SBQQ__Product Attribute Layout"
+      },
+    ]
+    SBQQ__ProductFeature__c_SBQQ__Product_Feature_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ProductFeature__c-SBQQ__Product Feature Layout"
+      },
+    ]
+    SBQQ__ProductOption__c_SBQQ__Product_Option_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ProductOption__c-SBQQ__Product Option Layout"
+      },
+    ]
+    SBQQ__ProductRule__c_SBQQ__Product_Rule_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__ProductRule__c-SBQQ__Product Rule Layout"
+      },
+    ]
+    SBQQ__QuoteDocument__c_SBQQ__Quote_Document_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__QuoteDocument__c-SBQQ__Quote Document Layout"
+      },
+    ]
+    SBQQ__QuoteLineConsumptionRate__c_SBQQ__Quote_Line_Consumption_Rate_Layout@uuuubuussss = [
+      {
+        layout = "SBQQ__QuoteLineConsumptionRate__c-SBQQ__Quote Line Consumption Rate Layout"
+      },
+    ]
+    SBQQ__QuoteLineConsumptionSchedule__c_SBQQ__Quote_Line_Consumption_Schedule_Layout@uuuubuussss = [
+      {
+        layout = "SBQQ__QuoteLineConsumptionSchedule__c-SBQQ__Quote Line Consumption Schedule Layout"
+      },
+    ]
+    SBQQ__QuoteLineGroup__c_SBQQ__Quote_Line_Group_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__QuoteLineGroup__c-SBQQ__Quote Line Group Layout"
+      },
+    ]
+    SBQQ__QuoteLinePricingGuidance__c_SBQQ__Quote_Line_Pricing_Guidance_Layout@uuuubuussss = [
+      {
+        layout = "SBQQ__QuoteLinePricingGuidance__c-SBQQ__Quote Line Pricing Guidance Layout"
+      },
+    ]
+    SBQQ__QuoteLine__c_SBQQ__Quote_Line_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__QuoteLine__c-SBQQ__Quote Line Layout"
+      },
+    ]
+    SBQQ__QuoteProcess__c_SBQQ__Quote_Process_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__QuoteProcess__c-SBQQ__Quote Process Layout"
+      },
+    ]
+    SBQQ__QuoteTemplate__c_SBQQ__Quote_Template_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__QuoteTemplate__c-SBQQ__Quote Template Layout"
+      },
+    ]
+    SBQQ__QuoteTerm__c_SBQQ__Quote_Term_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__QuoteTerm__c-SBQQ__Quote Term Layout"
+      },
+    ]
+    SBQQ__Quote__c_SBQQ__Quote_Layout@uuuubuus = [
+      {
+        layout = "SBQQ__Quote__c-SBQQ__Quote Layout"
+      },
+    ]
+    SBQQ__RecordJob__c_SBQQ__Record_Job_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__RecordJob__c-SBQQ__Record Job Layout"
+      },
+    ]
+    SBQQ__RelatedContent__c_SBQQ__Related_Content_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__RelatedContent__c-SBQQ__Related Content Layout"
+      },
+    ]
+    SBQQ__SearchFilter__c_SBQQ__Search_Filter_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__SearchFilter__c-SBQQ__Search Filter Layout"
+      },
+    ]
+    SBQQ__SearchIndex__c_SBQQ__Search_Index_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__SearchIndex__c-SBQQ__Search Index Layout"
+      },
+    ]
+    SBQQ__SolutionGroup__c_SBQQ__SolutionGroup_Layout@uuuubuus = [
+      {
+        layout = "SBQQ__SolutionGroup__c-SBQQ__SolutionGroup Layout"
+      },
+    ]
+    SBQQ__SubscribedAsset__c_SBQQ__Subscribed_Asset_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__SubscribedAsset__c-SBQQ__Subscribed Asset Layout"
+      },
+    ]
+    SBQQ__SubscribedQuoteLine__c_SBQQ__Subscribed_Quote_Line_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__SubscribedQuoteLine__c-SBQQ__Subscribed Quote Line Layout"
+      },
+    ]
+    SBQQ__SubscriptionConsumptionRate__c_SBQQ__Subscription_Consumption_Rate_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__SubscriptionConsumptionRate__c-SBQQ__Subscription Consumption Rate Layout"
+      },
+    ]
+    SBQQ__SubscriptionConsumptionSchedule__c_SBQQ__Subscription_Consumption_Schedule_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__SubscriptionConsumptionSchedule__c-SBQQ__Subscription Consumption Schedule Layout"
+      },
+    ]
+    SBQQ__Subscription__c_SBQQ__Subscription_Layout@uuuubuus = [
+      {
+        layout = "SBQQ__Subscription__c-SBQQ__Subscription Layout"
+      },
+    ]
+    SBQQ__SummaryVariable__c_SBQQ__Summary_Variable_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__SummaryVariable__c-SBQQ__Summary Variable Layout"
+      },
+    ]
+    SBQQ__TaxExemptionCertificate__c_SBQQ__Tax_Exemption_Certificate_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__TaxExemptionCertificate__c-SBQQ__Tax Exemption Certificate Layout"
+      },
+    ]
+    SBQQ__TemplateContent__c_SBQQ__Template_Content_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__TemplateContent__c-SBQQ__Template Content Layout"
+      },
+    ]
+    SBQQ__TemplateSection__c_SBQQ__Template_Section_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__TemplateSection__c-SBQQ__Template Section Layout"
+      },
+    ]
+    SBQQ__TermCondition__c_SBQQ__Term_Condition_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__TermCondition__c-SBQQ__Term Condition Layout"
+      },
+    ]
+    SBQQ__Theme__c_SBQQ__Theme_Layout@uuuubuus = [
+      {
+        layout = "SBQQ__Theme__c-SBQQ__Theme Layout"
+      },
+    ]
+    SBQQ__TimingLog__c_SBQQ__Timing_Log_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__TimingLog__c-SBQQ__Timing Log Layout"
+      },
+    ]
+    SBQQ__UpgradeSource__c_SBQQ__Upgrade_Source_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__UpgradeSource__c-SBQQ__Upgrade Source Layout"
+      },
+    ]
+    SBQQ__UsageRateCardAssignment__c_SBQQ__Usage_Rate_Card_Assignment_Layout@uuuubuussss = [
+      {
+        layout = "SBQQ__UsageRateCardAssignment__c-SBQQ__Usage Rate Card Assignment Layout"
+      },
+    ]
+    SBQQ__UsageRateCard__c_SBQQ__Usage_Rate_Card_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__UsageRateCard__c-SBQQ__Usage Rate Card Layout"
+      },
+    ]
+    SBQQ__UsageRate__c_SBQQ__Usage_Rate_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__UsageRate__c-SBQQ__Usage Rate Layout"
+      },
+    ]
+    SBQQ__WebQuoteLine__c_SBQQ__Web_Quote_Line_Layout@uuuubuusss = [
+      {
+        layout = "SBQQ__WebQuoteLine__c-SBQQ__Web Quote Line Layout"
+      },
+    ]
+    SBQQ__WebQuote__c_SBQQ__Web_Quote_Layout@uuuubuuss = [
+      {
+        layout = "SBQQ__WebQuote__c-SBQQ__Web Quote Layout"
+      },
+    ]
+    Scorecard_Scorecard_Layout@bs = [
+      {
+        layout = "Scorecard-Scorecard Layout"
+      },
+    ]
+    ScorecardAssociation_Scorecard_Association_Layout@bss = [
+      {
+        layout = "ScorecardAssociation-Scorecard Association Layout"
+      },
+    ]
+    ScorecardMetric_Scorecard_Metric_Layout@bss = [
+      {
+        layout = "ScorecardMetric-Scorecard Metric Layout"
+      },
+    ]
+    Seller_Seller_Layout@bs = [
+      {
+        layout = "Seller-Seller Layout"
+      },
+    ]
+    ServiceContract_Service_Contract_Layout@bss = [
+      {
+        layout = "ServiceContract-Service Contract Layout"
+      },
+    ]
+    SessionHijackingEventStore_Session_Hijacking_Event_Store_Layout@bssss = [
+      {
+        layout = "SessionHijackingEventStore-Session Hijacking Event Store Layout"
+      },
+    ]
+    SocialPersona_Social_Persona_Layout@bss = [
+      {
+        layout = "SocialPersona-Social Persona Layout"
+      },
+    ]
+    Solution_Solution_Layout@bs = [
+      {
+        layout = "Solution-Solution Layout"
+      },
+    ]
+    Task_Task_Layout@bs = [
+      {
+        layout = "Task-Task Layout"
+      },
+    ]
+    ThreatDetectionFeedback_Threat_Detection_Feedback_Layout@bsss = [
+      {
+        layout = "ThreatDetectionFeedback-Threat Detection Feedback Layout"
+      },
+    ]
+    User_User_Layout@bs = [
+      {
+        layout = "User-User Layout"
+      },
+    ]
+    UserProvAccount_User_Provisioning_Account_Layout@bsss = [
+      {
+        layout = "UserProvAccount-User Provisioning Account Layout"
+      },
+    ]
+    UserProvisioningLog_User_Provisioning_Log_Layout@bsss = [
+      {
+        layout = "UserProvisioningLog-User Provisioning Log Layout"
+      },
+    ]
+    UserProvisioningRequest_User_Provisioning_Request_Layout@bsss = [
+      {
+        layout = "UserProvisioningRequest-User Provisioning Request Layout"
+      },
+    ]
+    WorkOrder_Work_Order_Layout@bss = [
+      {
+        layout = "WorkOrder-Work Order Layout"
+      },
+    ]
+    WorkOrderLineItem_Work_Order_Line_Item_Layout@bssss = [
+      {
+        layout = "WorkOrderLineItem-Work Order Line Item Layout"
+      },
+    ]
+    WorkPlan_Work_Plan_Layout@bss = [
+      {
+        layout = "WorkPlan-Work Plan Layout"
+      },
+    ]
+    WorkPlanTemplate_Work_Plan_Template_Layout@bsss = [
+      {
+        layout = "WorkPlanTemplate-Work Plan Template Layout"
+      },
+    ]
+    WorkPlanTemplateEntry_Work_Plan_Template_Entry_Layout@bssss = [
+      {
+        layout = "WorkPlanTemplateEntry-Work Plan Template Entry Layout"
+      },
+    ]
+    WorkStep_Work_Step_Layout@bss = [
+      {
+        layout = "WorkStep-Work Step Layout"
+      },
+    ]
+    WorkStepTemplate_Work_Step_Template_Layout@bsss = [
+      {
+        layout = "WorkStepTemplate-Work Step Template Layout"
+      },
+    ]
+    New_Profile_Object__c_New_Profile_Object_Layout@uuuubsss = [
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.eight"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.five"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.four"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.nine"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.one"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.seven"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.six"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.ten"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.three"
+      },
+      {
+        layout = "New_Profile_Object__c-New Profile Object Layout"
+        recordType = "New_Profile_Object__c.two"
+      },
+    ]
+  }
+}

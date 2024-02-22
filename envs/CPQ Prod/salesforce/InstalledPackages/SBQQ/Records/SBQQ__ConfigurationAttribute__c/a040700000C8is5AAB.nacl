@@ -1,0 +1,16 @@
+salesforce.SBQQ__ConfigurationAttribute__c a040700000C8is5AAB {
+  SBQQ__AppliedImmediately__c = false
+  SBQQ__ApplyToProductOptions__c = false
+  SBQQ__AutoSelect__c = false
+  SBQQ__ColumnOrder__c = "1"
+  SBQQ__DefaultField__c = "Usable_Capacity__c"
+  SBQQ__DefaultObject__c = salesforce.SBQQ__Quote__c
+  SBQQ__DisplayOrder__c = 2
+  SBQQ__Hidden__c = false
+  SBQQ__Position__c = "Top"
+  
+  SBQQ__Required__c = false
+  SBQQ__TargetField__c = "Unit Price"
+  Name = "Keyboard 23plus"
+  _alias = "Keyboard 23plus"
+}
