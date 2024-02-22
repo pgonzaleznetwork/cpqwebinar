@@ -1,0 +1,102 @@
+type salesforce.New_Profile_Object__c {
+  salesforce.Checkbox field_10__c {
+    apiName = "New_Profile_Object__c.field_10__c"
+    defaultValue = false
+    externalId = false
+    label = "field 10"
+    trackTrending = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox field_1__c {
+    apiName = "New_Profile_Object__c.field_1__c"
+    defaultValue = false
+    externalId = false
+    label = "field 1"
+    trackTrending = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox field_2__c {
+    apiName = "New_Profile_Object__c.field_2__c"
+    defaultValue = false
+    externalId = false
+    label = "field 2"
+    trackTrending = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox field_3__c {
+    apiName = "New_Profile_Object__c.field_3__c"
+    defaultValue = false
+    externalId = false
+    label = "field 3"
+    trackTrending = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox field_4__c {
+    apiName = "New_Profile_Object__c.field_4__c"
+    defaultValue = false
+    externalId = false
+    label = "field 4"
+    trackTrending = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox field_5__c {
+    apiName = "New_Profile_Object__c.field_5__c"
+    defaultValue = false
+    externalId = false
+    label = "field 5"
+    trackTrending = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox field_6__c {
+    apiName = "New_Profile_Object__c.field_6__c"
+    defaultValue = false
+    externalId = false
+    label = "field 6"
+    trackTrending = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox field_7__c {
+    apiName = "New_Profile_Object__c.field_7__c"
+    defaultValue = false
+    externalId = false
+    label = "field 7"
+    trackTrending = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox field_8__c {
+    apiName = "New_Profile_Object__c.field_8__c"
+    defaultValue = false
+    externalId = false
+    label = "field 8"
+    trackTrending = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+  salesforce.Checkbox field_9__c {
+    apiName = "New_Profile_Object__c.field_9__c"
+    defaultValue = false
+    externalId = false
+    label = "field 9"
+    trackTrending = false
+    createable = true
+    updateable = true
+    queryable = true
+  }
+}
