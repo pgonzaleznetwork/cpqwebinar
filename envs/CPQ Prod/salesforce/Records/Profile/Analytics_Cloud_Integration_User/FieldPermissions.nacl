@@ -2480,17 +2480,6 @@ salesforce.Profile Analytics_Cloud_Integration_User@s {
       IsMaintainablePerType = "ReadWrite"
       LegalBasisId = "ReadWrite"
     }
-    New_Profile_Object__c = {
-      field_10__c = "ReadWrite"
-      field_1__c = "ReadWrite"
-      field_2__c = "ReadWrite"
-      field_3__c = "ReadWrite"
-      field_4__c = "ReadWrite"
-      field_5__c = "ReadWrite"
-      field_6__c = "ReadWrite"
-      field_7__c = "ReadWrite"
-      field_8__c = "ReadWrite"
-      field_9__c = "ReadWrite"
-    }
+    
   }
 }

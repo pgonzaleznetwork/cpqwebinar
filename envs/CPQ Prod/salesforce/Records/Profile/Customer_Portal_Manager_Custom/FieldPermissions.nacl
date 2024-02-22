@@ -2480,17 +2480,6 @@ salesforce.Profile Customer_Portal_Manager_Custom@s {
       IsMaintainablePerType = "ReadWrite"
       LegalBasisId = "ReadWrite"
     }
-    New_Profile_Object__c = {
-      field_10__c = "NoAccess"
-      field_1__c = "NoAccess"
-      field_2__c = "NoAccess"
-      field_3__c = "NoAccess"
-      field_4__c = "NoAccess"
-      field_5__c = "NoAccess"
-      field_6__c = "NoAccess"
-      field_7__c = "ReadWrite"
-      field_8__c = "NoAccess"
-      field_9__c = "NoAccess"
-    }
+    
   }
 }

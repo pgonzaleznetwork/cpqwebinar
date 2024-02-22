@@ -1,9 +1,0 @@
-salesforce.RecordType New_Profile_Object__c_one {
-  fullName = "New_Profile_Object__c.one"
-  active = true
-  label = "one"
-  _parent = [
-    salesforce.New_Profile_Object__c,
-  ]
-  _alias = "one"
-}

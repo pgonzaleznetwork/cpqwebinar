@@ -1540,14 +1540,6 @@ salesforce.Profile Analytics_Cloud_Integration_User@s {
       object = "WorkStepTemplate"
       viewAllRecords = true
     }
-    New_Profile_Object__c = {
-      allowCreate = false
-      allowDelete = false
-      allowEdit = false
-      allowRead = true
-      modifyAllRecords = false
-      object = "New_Profile_Object__c"
-      viewAllRecords = true
-    }
+    
   }
 }

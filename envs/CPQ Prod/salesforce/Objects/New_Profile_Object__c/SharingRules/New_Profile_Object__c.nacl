@@ -1,7 +1,0 @@
-salesforce.SharingRules New_Profile_Object__c {
-  fullName = "New_Profile_Object__c"
-  _parent = [
-    salesforce.New_Profile_Object__c,
-  ]
-  _alias = "New_Profile_Object__c"
-}

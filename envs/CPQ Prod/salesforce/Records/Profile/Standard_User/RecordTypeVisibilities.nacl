@@ -19,57 +19,6 @@ salesforce.Profile Standard {
         visible = false
       }
     }
-    New_Profile_Object__c = {
-      eight = {
-        default = false
-        recordType = "New_Profile_Object__c.eight"
-        visible = true
-      }
-      five = {
-        default = false
-        recordType = "New_Profile_Object__c.five"
-        visible = false
-      }
-      four = {
-        default = false
-        recordType = "New_Profile_Object__c.four"
-        visible = true
-      }
-      nine = {
-        default = false
-        recordType = "New_Profile_Object__c.nine"
-        visible = true
-      }
-      one = {
-        default = true
-        recordType = "New_Profile_Object__c.one"
-        visible = true
-      }
-      seven = {
-        default = false
-        recordType = "New_Profile_Object__c.seven"
-        visible = true
-      }
-      six = {
-        default = false
-        recordType = "New_Profile_Object__c.six"
-        visible = true
-      }
-      ten = {
-        default = false
-        recordType = "New_Profile_Object__c.ten"
-        visible = true
-      }
-      three = {
-        default = false
-        recordType = "New_Profile_Object__c.three"
-        visible = true
-      }
-      two = {
-        default = false
-        recordType = "New_Profile_Object__c.two"
-        visible = true
-      }
-    }
+    
   }
 }
