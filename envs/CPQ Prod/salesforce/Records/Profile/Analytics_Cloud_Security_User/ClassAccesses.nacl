@@ -1,0 +1,3380 @@
+salesforce.Profile Analytics_Cloud_Security_User@s {
+  classAccesses = {
+    MyCoverageClass = {
+      apexClass = "MyCoverageClass"
+      enabled = false
+    }
+    MyCoverageClassTests = {
+      apexClass = "MyCoverageClassTests"
+      enabled = false
+    }
+    SBQQ__APIable = {
+      apexClass = "SBQQ__APIable"
+      enabled = true
+    }
+    SBQQ__ARLGTestDataLoader = {
+      apexClass = "SBQQ__ARLGTestDataLoader"
+      enabled = true
+    }
+    SBQQ__AbstractConsumptionRateDAO = {
+      apexClass = "SBQQ__AbstractConsumptionRateDAO"
+      enabled = true
+    }
+    SBQQ__AbstractConsumptionScheduleDAO = {
+      apexClass = "SBQQ__AbstractConsumptionScheduleDAO"
+      enabled = true
+    }
+    SBQQ__AbstractDAO = {
+      apexClass = "SBQQ__AbstractDAO"
+      enabled = true
+    }
+    SBQQ__AbstractDAOTest = {
+      apexClass = "SBQQ__AbstractDAOTest"
+      enabled = true
+    }
+    SBQQ__AbstractPriceRuleEvaluator = {
+      apexClass = "SBQQ__AbstractPriceRuleEvaluator"
+      enabled = true
+    }
+    SBQQ__AbstractPriceRuleEvaluatorTests = {
+      apexClass = "SBQQ__AbstractPriceRuleEvaluatorTests"
+      enabled = true
+    }
+    SBQQ__AbstractProductRuleValidator = {
+      apexClass = "SBQQ__AbstractProductRuleValidator"
+      enabled = true
+    }
+    SBQQ__AbstractReferencedFieldGenerator = {
+      apexClass = "SBQQ__AbstractReferencedFieldGenerator"
+      enabled = true
+    }
+    SBQQ__AbstractSearchModel = {
+      apexClass = "SBQQ__AbstractSearchModel"
+      enabled = true
+    }
+    SBQQ__AccessTokenCacheService = {
+      apexClass = "SBQQ__AccessTokenCacheService"
+      enabled = true
+    }
+    SBQQ__AccountDAO = {
+      apexClass = "SBQQ__AccountDAO"
+      enabled = true
+    }
+    SBQQ__AccountExtController = {
+      apexClass = "SBQQ__AccountExtController"
+      enabled = true
+    }
+    SBQQ__AccountExtControllerTests = {
+      apexClass = "SBQQ__AccountExtControllerTests"
+      enabled = true
+    }
+    SBQQ__AccountService = {
+      apexClass = "SBQQ__AccountService"
+      enabled = true
+    }
+    SBQQ__AccountServiceTests = {
+      apexClass = "SBQQ__AccountServiceTests"
+      enabled = true
+    }
+    SBQQ__AccountTriggerTests = {
+      apexClass = "SBQQ__AccountTriggerTests"
+      enabled = true
+    }
+    SBQQ__AccountVO = {
+      apexClass = "SBQQ__AccountVO"
+      enabled = true
+    }
+    SBQQ__AccountVOTests = {
+      apexClass = "SBQQ__AccountVOTests"
+      enabled = true
+    }
+    SBQQ__AdditionalDocumentsAfterTests = {
+      apexClass = "SBQQ__AdditionalDocumentsAfterTests"
+      enabled = true
+    }
+    SBQQ__AliasedMetaDataUtils = {
+      apexClass = "SBQQ__AliasedMetaDataUtils"
+      enabled = true
+    }
+    SBQQ__AliasedMetaDataUtilsTests = {
+      apexClass = "SBQQ__AliasedMetaDataUtilsTests"
+      enabled = true
+    }
+    SBQQ__AmendContractController = {
+      apexClass = "SBQQ__AmendContractController"
+      enabled = true
+    }
+    SBQQ__AmendContractControllerTest = {
+      apexClass = "SBQQ__AmendContractControllerTest"
+      enabled = true
+    }
+    SBQQ__AmendmentCheckerExt = {
+      apexClass = "SBQQ__AmendmentCheckerExt"
+      enabled = true
+    }
+    SBQQ__AssetAndSubscriptionServiceProvider = {
+      apexClass = "SBQQ__AssetAndSubscriptionServiceProvider"
+      enabled = true
+    }
+    SBQQ__AssetDAO = {
+      apexClass = "SBQQ__AssetDAO"
+      enabled = true
+    }
+    SBQQ__AssetDAOTest = {
+      apexClass = "SBQQ__AssetDAOTest"
+      enabled = true
+    }
+    SBQQ__AssetLookupController = {
+      apexClass = "SBQQ__AssetLookupController"
+      enabled = true
+    }
+    SBQQ__AssetLookupControllerTests = {
+      apexClass = "SBQQ__AssetLookupControllerTests"
+      enabled = true
+    }
+    SBQQ__AssetLookupServiceProvider = {
+      apexClass = "SBQQ__AssetLookupServiceProvider"
+      enabled = true
+    }
+    SBQQ__AssetQuantityValidator = {
+      apexClass = "SBQQ__AssetQuantityValidator"
+      enabled = true
+    }
+    SBQQ__AssetSearchModel = {
+      apexClass = "SBQQ__AssetSearchModel"
+      enabled = true
+    }
+    SBQQ__AssetService = {
+      apexClass = "SBQQ__AssetService"
+      enabled = true
+    }
+    SBQQ__AssetServiceTests = {
+      apexClass = "SBQQ__AssetServiceTests"
+      enabled = true
+    }
+    SBQQ__AssetVO = {
+      apexClass = "SBQQ__AssetVO"
+      enabled = true
+    }
+    SBQQ__AsyncCalcTestServiceProvider = {
+      apexClass = "SBQQ__AsyncCalcTestServiceProvider"
+      enabled = true
+    }
+    SBQQ__AsyncQuoteLoadExtension = {
+      apexClass = "SBQQ__AsyncQuoteLoadExtension"
+      enabled = true
+    }
+    SBQQ__AttributeItem = {
+      apexClass = "SBQQ__AttributeItem"
+      enabled = true
+    }
+    SBQQ__AttributeItemTests = {
+      apexClass = "SBQQ__AttributeItemTests"
+      enabled = true
+    }
+    SBQQ__AttributeSetDAO = {
+      apexClass = "SBQQ__AttributeSetDAO"
+      enabled = true
+    }
+    SBQQ__AttributeSetService = {
+      apexClass = "SBQQ__AttributeSetService"
+      enabled = true
+    }
+    SBQQ__AttributeSetServiceTests = {
+      apexClass = "SBQQ__AttributeSetServiceTests"
+      enabled = true
+    }
+    SBQQ__AutoProvisionUtil = {
+      apexClass = "SBQQ__AutoProvisionUtil"
+      enabled = true
+    }
+    SBQQ__BatchLicenseReadinessCheck = {
+      apexClass = "SBQQ__BatchLicenseReadinessCheck"
+      enabled = true
+    }
+    SBQQ__BatchMigrateOrderQuantity = {
+      apexClass = "SBQQ__BatchMigrateOrderQuantity"
+      enabled = true
+    }
+    SBQQ__BatchOrderItemAssetContractSubs = {
+      apexClass = "SBQQ__BatchOrderItemAssetContractSubs"
+      enabled = true
+    }
+    SBQQ__BatchProcessPSLAssignments = {
+      apexClass = "SBQQ__BatchProcessPSLAssignments"
+      enabled = true
+    }
+    SBQQ__BatchableAssetPriceDimensionSetter = {
+      apexClass = "SBQQ__BatchableAssetPriceDimensionSetter"
+      enabled = true
+    }
+    SBQQ__BatchableAssetPriceDimensionSetterTests = {
+      apexClass = "SBQQ__BatchableAssetPriceDimensionSetterTests"
+      enabled = true
+    }
+    SBQQ__BatchableConfigAttrReferencedFieldTests = {
+      apexClass = "SBQQ__BatchableConfigAttrReferencedFieldTests"
+      enabled = true
+    }
+    SBQQ__BatchableConfigAttrReferencedFieldUtil = {
+      apexClass = "SBQQ__BatchableConfigAttrReferencedFieldUtil"
+      enabled = true
+    }
+    SBQQ__BatchableDSExclusionGenerator = {
+      apexClass = "SBQQ__BatchableDSExclusionGenerator"
+      enabled = true
+    }
+    SBQQ__BatchableDSExclusionGeneratorTests = {
+      apexClass = "SBQQ__BatchableDSExclusionGeneratorTests"
+      enabled = true
+    }
+    SBQQ__BatchablePluginTranspileUtil = {
+      apexClass = "SBQQ__BatchablePluginTranspileUtil"
+      enabled = true
+    }
+    SBQQ__BatchableRootIdSetter = {
+      apexClass = "SBQQ__BatchableRootIdSetter"
+      enabled = true
+    }
+    SBQQ__BatchableRootIdSetterTests = {
+      apexClass = "SBQQ__BatchableRootIdSetterTests"
+      enabled = true
+    }
+    SBQQ__BillingPlugin = {
+      apexClass = "SBQQ__BillingPlugin"
+      enabled = true
+    }
+    SBQQ__BillingUtils = {
+      apexClass = "SBQQ__BillingUtils"
+      enabled = true
+    }
+    SBQQ__BinaryTree = {
+      apexClass = "SBQQ__BinaryTree"
+      enabled = true
+    }
+    SBQQ__BinaryTreeTest = {
+      apexClass = "SBQQ__BinaryTreeTest"
+      enabled = true
+    }
+    SBQQ__BlockPriceEditorController = {
+      apexClass = "SBQQ__BlockPriceEditorController"
+      enabled = true
+    }
+    SBQQ__BlockPriceEditorControllerTests = {
+      apexClass = "SBQQ__BlockPriceEditorControllerTests"
+      enabled = true
+    }
+    SBQQ__BlockPriceListModel = {
+      apexClass = "SBQQ__BlockPriceListModel"
+      enabled = true
+    }
+    SBQQ__BlockPriceListModelTests = {
+      apexClass = "SBQQ__BlockPriceListModelTests"
+      enabled = true
+    }
+    SBQQ__BlockPriceTriggerControl = {
+      apexClass = "SBQQ__BlockPriceTriggerControl"
+      enabled = true
+    }
+    SBQQ__C2CBatchJob = {
+      apexClass = "SBQQ__C2CBatchJob"
+      enabled = true
+    }
+    SBQQ__C2CUtil = {
+      apexClass = "SBQQ__C2CUtil"
+      enabled = true
+    }
+    SBQQ__C2CUtilTests = {
+      apexClass = "SBQQ__C2CUtilTests"
+      enabled = true
+    }
+    SBQQ__CPQConstants = {
+      apexClass = "SBQQ__CPQConstants"
+      enabled = true
+    }
+    SBQQ__CSVFieldsParser = {
+      apexClass = "SBQQ__CSVFieldsParser"
+      enabled = true
+    }
+    SBQQ__CSVLinesParser = {
+      apexClass = "SBQQ__CSVLinesParser"
+      enabled = true
+    }
+    SBQQ__CSVParser = {
+      apexClass = "SBQQ__CSVParser"
+      enabled = true
+    }
+    SBQQ__CSVParserTests = {
+      apexClass = "SBQQ__CSVParserTests"
+      enabled = true
+    }
+    SBQQ__CalculateCallback = {
+      apexClass = "SBQQ__CalculateCallback"
+      enabled = true
+    }
+    SBQQ__CalculateCallbackAdapter = {
+      apexClass = "SBQQ__CalculateCallbackAdapter"
+      enabled = true
+    }
+    SBQQ__CalculateCallbackAdapterTests = {
+      apexClass = "SBQQ__CalculateCallbackAdapterTests"
+      enabled = true
+    }
+    SBQQ__CalculatorReferencedFieldGenerator = {
+      apexClass = "SBQQ__CalculatorReferencedFieldGenerator"
+      enabled = true
+    }
+    SBQQ__CalculatorReferencedFieldGeneratorTests = {
+      apexClass = "SBQQ__CalculatorReferencedFieldGeneratorTests"
+      enabled = true
+    }
+    SBQQ__CalculatorReferencedFieldRemover = {
+      apexClass = "SBQQ__CalculatorReferencedFieldRemover"
+      enabled = true
+    }
+    SBQQ__CalculatorServiceFactory = {
+      apexClass = "SBQQ__CalculatorServiceFactory"
+      enabled = true
+    }
+    SBQQ__ChainedBatchable = {
+      apexClass = "SBQQ__ChainedBatchable"
+      enabled = true
+    }
+    SBQQ__ChainedDummy = {
+      apexClass = "SBQQ__ChainedDummy"
+      enabled = true
+    }
+    SBQQ__ChainedJob = {
+      apexClass = "SBQQ__ChainedJob"
+      enabled = true
+    }
+    SBQQ__ChainedQueueable = {
+      apexClass = "SBQQ__ChainedQueueable"
+      enabled = true
+    }
+    SBQQ__ChatterUtils = {
+      apexClass = "SBQQ__ChatterUtils"
+      enabled = true
+    }
+    SBQQ__ChatterUtilsTests = {
+      apexClass = "SBQQ__ChatterUtilsTests"
+      enabled = true
+    }
+    SBQQ__CollectionUtils = {
+      apexClass = "SBQQ__CollectionUtils"
+      enabled = true
+    }
+    SBQQ__CollectionUtilsTests = {
+      apexClass = "SBQQ__CollectionUtilsTests"
+      enabled = true
+    }
+    SBQQ__ColumnMetadataBeforeTest = {
+      apexClass = "SBQQ__ColumnMetadataBeforeTest"
+      enabled = true
+    }
+    SBQQ__ColumnSizingClientModel = {
+      apexClass = "SBQQ__ColumnSizingClientModel"
+      enabled = true
+    }
+    SBQQ__ColumnSizingClientModelTests = {
+      apexClass = "SBQQ__ColumnSizingClientModelTests"
+      enabled = true
+    }
+    SBQQ__ColumnSizingDAO = {
+      apexClass = "SBQQ__ColumnSizingDAO"
+      enabled = true
+    }
+    SBQQ__ColumnSizingDAOTest = {
+      apexClass = "SBQQ__ColumnSizingDAOTest"
+      enabled = true
+    }
+    SBQQ__ColumnSizingServiceProvider = {
+      apexClass = "SBQQ__ColumnSizingServiceProvider"
+      enabled = true
+    }
+    SBQQ__ColumnSizingServiceProviderTests = {
+      apexClass = "SBQQ__ColumnSizingServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__ComparableTransactionRate = {
+      apexClass = "SBQQ__ComparableTransactionRate"
+      enabled = true
+    }
+    SBQQ__Comparator = {
+      apexClass = "SBQQ__Comparator"
+      enabled = true
+    }
+    SBQQ__CompleteBundleUpgradeTests = {
+      apexClass = "SBQQ__CompleteBundleUpgradeTests"
+      enabled = true
+    }
+    SBQQ__ConfigAPI = {
+      apexClass = "SBQQ__ConfigAPI"
+      enabled = true
+    }
+    SBQQ__ConfigAPITests = {
+      apexClass = "SBQQ__ConfigAPITests"
+      enabled = true
+    }
+    SBQQ__ConfigAttribute = {
+      apexClass = "SBQQ__ConfigAttribute"
+      enabled = true
+    }
+    SBQQ__ConfigurationAttributeMapper = {
+      apexClass = "SBQQ__ConfigurationAttributeMapper"
+      enabled = true
+    }
+    SBQQ__ConfigurationAttributeMapperTests = {
+      apexClass = "SBQQ__ConfigurationAttributeMapperTests"
+      enabled = true
+    }
+    SBQQ__ConfigurationAttributeTests = {
+      apexClass = "SBQQ__ConfigurationAttributeTests"
+      enabled = true
+    }
+    SBQQ__ConfigurationItem = {
+      apexClass = "SBQQ__ConfigurationItem"
+      enabled = true
+    }
+    SBQQ__ConfigurationProductOption = {
+      apexClass = "SBQQ__ConfigurationProductOption"
+      enabled = true
+    }
+    SBQQ__ConfigurationRuleAlert = {
+      apexClass = "SBQQ__ConfigurationRuleAlert"
+      enabled = true
+    }
+    SBQQ__ConfigurationRuleDAO = {
+      apexClass = "SBQQ__ConfigurationRuleDAO"
+      enabled = true
+    }
+    SBQQ__ConfigurationRuleDAOTests = {
+      apexClass = "SBQQ__ConfigurationRuleDAOTests"
+      enabled = true
+    }
+    SBQQ__ConfigurationRuleExecutor = {
+      apexClass = "SBQQ__ConfigurationRuleExecutor"
+      enabled = true
+    }
+    SBQQ__ConfigurationRuleExecutorTests = {
+      apexClass = "SBQQ__ConfigurationRuleExecutorTests"
+      enabled = true
+    }
+    SBQQ__ConfigurationRuleValidator = {
+      apexClass = "SBQQ__ConfigurationRuleValidator"
+      enabled = true
+    }
+    SBQQ__ConfigurationRuleValidatorTests = {
+      apexClass = "SBQQ__ConfigurationRuleValidatorTests"
+      enabled = true
+    }
+    SBQQ__ConfigurationRules = {
+      apexClass = "SBQQ__ConfigurationRules"
+      enabled = true
+    }
+    SBQQ__ConfigurationRulesTests = {
+      apexClass = "SBQQ__ConfigurationRulesTests"
+      enabled = true
+    }
+    SBQQ__ConfigurationSummaryController = {
+      apexClass = "SBQQ__ConfigurationSummaryController"
+      enabled = true
+    }
+    SBQQ__ConfigurationSummaryControllerTests = {
+      apexClass = "SBQQ__ConfigurationSummaryControllerTests"
+      enabled = true
+    }
+    SBQQ__ConfiguratorSearchModel = {
+      apexClass = "SBQQ__ConfiguratorSearchModel"
+      enabled = true
+    }
+    SBQQ__ConsumptionClientModel = {
+      apexClass = "SBQQ__ConsumptionClientModel"
+      enabled = true
+    }
+    SBQQ__ConsumptionClientModelTests = {
+      apexClass = "SBQQ__ConsumptionClientModelTests"
+      enabled = true
+    }
+    SBQQ__ConsumptionJunction = {
+      apexClass = "SBQQ__ConsumptionJunction"
+      enabled = true
+    }
+    SBQQ__ConsumptionJunctionFactory = {
+      apexClass = "SBQQ__ConsumptionJunctionFactory"
+      enabled = true
+    }
+    SBQQ__ConsumptionJunctionFactoryTests = {
+      apexClass = "SBQQ__ConsumptionJunctionFactoryTests"
+      enabled = true
+    }
+    SBQQ__ConsumptionJunctionImpl = {
+      apexClass = "SBQQ__ConsumptionJunctionImpl"
+      enabled = true
+    }
+    SBQQ__ConsumptionJunctionUtil = {
+      apexClass = "SBQQ__ConsumptionJunctionUtil"
+      enabled = true
+    }
+    SBQQ__ConsumptionJunctionUtilTests = {
+      apexClass = "SBQQ__ConsumptionJunctionUtilTests"
+      enabled = true
+    }
+    SBQQ__ConsumptionRateDAO = {
+      apexClass = "SBQQ__ConsumptionRateDAO"
+      enabled = true
+    }
+    SBQQ__ConsumptionRateDAOTests = {
+      apexClass = "SBQQ__ConsumptionRateDAOTests"
+      enabled = true
+    }
+    SBQQ__ConsumptionScheduleAndRateTrigger = {
+      apexClass = "SBQQ__ConsumptionScheduleAndRateTrigger"
+      enabled = true
+    }
+    SBQQ__ConsumptionScheduleDAO = {
+      apexClass = "SBQQ__ConsumptionScheduleDAO"
+      enabled = true
+    }
+    SBQQ__ConsumptionScheduleDAOTests = {
+      apexClass = "SBQQ__ConsumptionScheduleDAOTests"
+      enabled = true
+    }
+    SBQQ__ConsumptionScheduleTrigger = {
+      apexClass = "SBQQ__ConsumptionScheduleTrigger"
+      enabled = true
+    }
+    SBQQ__ConsumptionScheduleTriggerTests = {
+      apexClass = "SBQQ__ConsumptionScheduleTriggerTests"
+      enabled = true
+    }
+    SBQQ__ConsumptionService = {
+      apexClass = "SBQQ__ConsumptionService"
+      enabled = true
+    }
+    SBQQ__ConsumptionServiceProvider = {
+      apexClass = "SBQQ__ConsumptionServiceProvider"
+      enabled = true
+    }
+    SBQQ__ConsumptionServiceProviderTests = {
+      apexClass = "SBQQ__ConsumptionServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__ConsumptionServiceTests = {
+      apexClass = "SBQQ__ConsumptionServiceTests"
+      enabled = true
+    }
+    SBQQ__ConsumptionTransactionManager = {
+      apexClass = "SBQQ__ConsumptionTransactionManager"
+      enabled = true
+    }
+    SBQQ__ConsumptionTransactionManagerTests = {
+      apexClass = "SBQQ__ConsumptionTransactionManagerTests"
+      enabled = true
+    }
+    SBQQ__ConsumptionTriggerControl = {
+      apexClass = "SBQQ__ConsumptionTriggerControl"
+      enabled = true
+    }
+    SBQQ__ContractAPI = {
+      apexClass = "SBQQ__ContractAPI"
+      enabled = true
+    }
+    SBQQ__ContractAPITests = {
+      apexClass = "SBQQ__ContractAPITests"
+      enabled = true
+    }
+    SBQQ__ContractCreationTests = {
+      apexClass = "SBQQ__ContractCreationTests"
+      enabled = true
+    }
+    SBQQ__ContractDAO = {
+      apexClass = "SBQQ__ContractDAO"
+      enabled = true
+    }
+    SBQQ__ContractExtController = {
+      apexClass = "SBQQ__ContractExtController"
+      enabled = true
+    }
+    SBQQ__ContractExtControllerTests = {
+      apexClass = "SBQQ__ContractExtControllerTests"
+      enabled = true
+    }
+    SBQQ__ContractLookupServiceProvider = {
+      apexClass = "SBQQ__ContractLookupServiceProvider"
+      enabled = true
+    }
+    SBQQ__ContractLookupServiceProviderTests = {
+      apexClass = "SBQQ__ContractLookupServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__ContractManipulationAPI = {
+      apexClass = "SBQQ__ContractManipulationAPI"
+      enabled = true
+    }
+    SBQQ__ContractOrderService = {
+      apexClass = "SBQQ__ContractOrderService"
+      enabled = true
+    }
+    SBQQ__ContractOrdersResult = {
+      apexClass = "SBQQ__ContractOrdersResult"
+      enabled = true
+    }
+    SBQQ__ContractSelectorController = {
+      apexClass = "SBQQ__ContractSelectorController"
+      enabled = true
+    }
+    SBQQ__ContractSelectorControllerTests = {
+      apexClass = "SBQQ__ContractSelectorControllerTests"
+      enabled = true
+    }
+    SBQQ__ContractService = {
+      apexClass = "SBQQ__ContractService"
+      enabled = true
+    }
+    SBQQ__ContractServiceAmendRenewTests = {
+      apexClass = "SBQQ__ContractServiceAmendRenewTests"
+      enabled = true
+    }
+    SBQQ__ContractServiceOWDTests = {
+      apexClass = "SBQQ__ContractServiceOWDTests"
+      enabled = true
+    }
+    SBQQ__ContractServiceProvider = {
+      apexClass = "SBQQ__ContractServiceProvider"
+      enabled = true
+    }
+    SBQQ__ContractServiceTests = {
+      apexClass = "SBQQ__ContractServiceTests"
+      enabled = true
+    }
+    SBQQ__ContractVO = {
+      apexClass = "SBQQ__ContractVO"
+      enabled = true
+    }
+    SBQQ__ContractedPriceDAO = {
+      apexClass = "SBQQ__ContractedPriceDAO"
+      enabled = true
+    }
+    SBQQ__ContractedPriceDAOTest = {
+      apexClass = "SBQQ__ContractedPriceDAOTest"
+      enabled = true
+    }
+    SBQQ__ContractedPriceModel = {
+      apexClass = "SBQQ__ContractedPriceModel"
+      enabled = true
+    }
+    SBQQ__ContractedPriceService = {
+      apexClass = "SBQQ__ContractedPriceService"
+      enabled = true
+    }
+    SBQQ__ContractedPriceServiceTests = {
+      apexClass = "SBQQ__ContractedPriceServiceTests"
+      enabled = true
+    }
+    SBQQ__ContractedPriceVO = {
+      apexClass = "SBQQ__ContractedPriceVO"
+      enabled = true
+    }
+    SBQQ__CustomActionConditionTrigger = {
+      apexClass = "SBQQ__CustomActionConditionTrigger"
+      enabled = true
+    }
+    SBQQ__CustomActionDAO = {
+      apexClass = "SBQQ__CustomActionDAO"
+      enabled = true
+    }
+    SBQQ__CustomActionDAOTests = {
+      apexClass = "SBQQ__CustomActionDAOTests"
+      enabled = true
+    }
+    SBQQ__CustomActionDefinitions = {
+      apexClass = "SBQQ__CustomActionDefinitions"
+      enabled = true
+    }
+    SBQQ__CustomActionRefFieldGenerator = {
+      apexClass = "SBQQ__CustomActionRefFieldGenerator"
+      enabled = true
+    }
+    SBQQ__CustomActionTriggerTests = {
+      apexClass = "SBQQ__CustomActionTriggerTests"
+      enabled = true
+    }
+    SBQQ__CustomLookupController = {
+      apexClass = "SBQQ__CustomLookupController"
+      enabled = true
+    }
+    SBQQ__CustomLookupControllerTests = {
+      apexClass = "SBQQ__CustomLookupControllerTests"
+      enabled = true
+    }
+    SBQQ__CustomScriptTranspileClient = {
+      apexClass = "SBQQ__CustomScriptTranspileClient"
+      enabled = true
+    }
+    SBQQ__CustomScriptTrigger = {
+      apexClass = "SBQQ__CustomScriptTrigger"
+      enabled = true
+    }
+    SBQQ__CustomScriptTriggerTests = {
+      apexClass = "SBQQ__CustomScriptTriggerTests"
+      enabled = true
+    }
+    SBQQ__DAOFactory = {
+      apexClass = "SBQQ__DAOFactory"
+      enabled = true
+    }
+    SBQQ__DataChangeTrackerServiceProvider = {
+      apexClass = "SBQQ__DataChangeTrackerServiceProvider"
+      enabled = true
+    }
+    SBQQ__DatabaseService = {
+      apexClass = "SBQQ__DatabaseService"
+      enabled = true
+    }
+    SBQQ__DateRange = {
+      apexClass = "SBQQ__DateRange"
+      enabled = true
+    }
+    SBQQ__DateUtils = {
+      apexClass = "SBQQ__DateUtils"
+      enabled = true
+    }
+    SBQQ__DateUtilsTest = {
+      apexClass = "SBQQ__DateUtilsTest"
+      enabled = true
+    }
+    SBQQ__DefaultDatabase = {
+      apexClass = "SBQQ__DefaultDatabase"
+      enabled = true
+    }
+    SBQQ__DefaultElectronicSignaturePlugin = {
+      apexClass = "SBQQ__DefaultElectronicSignaturePlugin"
+      enabled = true
+    }
+    SBQQ__DefaultFieldSetService = {
+      apexClass = "SBQQ__DefaultFieldSetService"
+      enabled = true
+    }
+    SBQQ__DefaultPageSecurityPlugin = {
+      apexClass = "SBQQ__DefaultPageSecurityPlugin"
+      enabled = true
+    }
+    SBQQ__DimensionDAO = {
+      apexClass = "SBQQ__DimensionDAO"
+      enabled = true
+    }
+    SBQQ__DimensionDAOTest = {
+      apexClass = "SBQQ__DimensionDAOTest"
+      enabled = true
+    }
+    SBQQ__DimensionService = {
+      apexClass = "SBQQ__DimensionService"
+      enabled = true
+    }
+    SBQQ__DimensionServiceTests = {
+      apexClass = "SBQQ__DimensionServiceTests"
+      enabled = true
+    }
+    SBQQ__DirectionalTree = {
+      apexClass = "SBQQ__DirectionalTree"
+      enabled = true
+    }
+    SBQQ__DiscountAndAccountCallout = {
+      apexClass = "SBQQ__DiscountAndAccountCallout"
+      enabled = true
+    }
+    SBQQ__DiscountAndAccountCalloutTests = {
+      apexClass = "SBQQ__DiscountAndAccountCalloutTests"
+      enabled = true
+    }
+    SBQQ__DiscountSchedule = {
+      apexClass = "SBQQ__DiscountSchedule"
+      enabled = true
+    }
+    SBQQ__DiscountScheduleDAO = {
+      apexClass = "SBQQ__DiscountScheduleDAO"
+      enabled = true
+    }
+    SBQQ__DiscountScheduleExclusionGenerator = {
+      apexClass = "SBQQ__DiscountScheduleExclusionGenerator"
+      enabled = true
+    }
+    SBQQ__DiscountScheduleExclusionGeneratorTests = {
+      apexClass = "SBQQ__DiscountScheduleExclusionGeneratorTests"
+      enabled = true
+    }
+    SBQQ__DiscountScheduleExtController = {
+      apexClass = "SBQQ__DiscountScheduleExtController"
+      enabled = true
+    }
+    SBQQ__DiscountScheduleExtControllerTests = {
+      apexClass = "SBQQ__DiscountScheduleExtControllerTests"
+      enabled = true
+    }
+    SBQQ__DiscountScheduleModel = {
+      apexClass = "SBQQ__DiscountScheduleModel"
+      enabled = true
+    }
+    SBQQ__DiscountScheduleModelTests = {
+      apexClass = "SBQQ__DiscountScheduleModelTests"
+      enabled = true
+    }
+    SBQQ__DiscountScheduleRefFieldGenerator = {
+      apexClass = "SBQQ__DiscountScheduleRefFieldGenerator"
+      enabled = true
+    }
+    SBQQ__DiscountScheduleService = {
+      apexClass = "SBQQ__DiscountScheduleService"
+      enabled = true
+    }
+    SBQQ__DiscountScheduleServiceProvider = {
+      apexClass = "SBQQ__DiscountScheduleServiceProvider"
+      enabled = true
+    }
+    SBQQ__DiscountScheduleTrigger = {
+      apexClass = "SBQQ__DiscountScheduleTrigger"
+      enabled = true
+    }
+    SBQQ__DiscountTierEditorController = {
+      apexClass = "SBQQ__DiscountTierEditorController"
+      enabled = true
+    }
+    SBQQ__DiscountTierEditorControllerTests = {
+      apexClass = "SBQQ__DiscountTierEditorControllerTests"
+      enabled = true
+    }
+    SBQQ__DiscountTierListModel = {
+      apexClass = "SBQQ__DiscountTierListModel"
+      enabled = true
+    }
+    SBQQ__DiscountTierTriggerControl = {
+      apexClass = "SBQQ__DiscountTierTriggerControl"
+      enabled = true
+    }
+    SBQQ__DocumentGenerator = {
+      apexClass = "SBQQ__DocumentGenerator"
+      enabled = true
+    }
+    SBQQ__DocumentGeneratorController = {
+      apexClass = "SBQQ__DocumentGeneratorController"
+      enabled = true
+    }
+    SBQQ__DocumentGeneratorControllerTests = {
+      apexClass = "SBQQ__DocumentGeneratorControllerTests"
+      enabled = true
+    }
+    SBQQ__DocumentSegment = {
+      apexClass = "SBQQ__DocumentSegment"
+      enabled = true
+    }
+    SBQQ__DocumentStorePlugin = {
+      apexClass = "SBQQ__DocumentStorePlugin"
+      enabled = true
+    }
+    SBQQ__DocumentStorePlugin2 = {
+      apexClass = "SBQQ__DocumentStorePlugin2"
+      enabled = true
+    }
+    SBQQ__ElectronicDocumentProcessor = {
+      apexClass = "SBQQ__ElectronicDocumentProcessor"
+      enabled = true
+    }
+    SBQQ__ElectronicDocumentProcessorTests = {
+      apexClass = "SBQQ__ElectronicDocumentProcessorTests"
+      enabled = true
+    }
+    SBQQ__ElectronicSignaturePlugin = {
+      apexClass = "SBQQ__ElectronicSignaturePlugin"
+      enabled = true
+    }
+    SBQQ__ElectronicSignaturePlugin2 = {
+      apexClass = "SBQQ__ElectronicSignaturePlugin2"
+      enabled = true
+    }
+    SBQQ__ElectronicSignaturePlugin3 = {
+      apexClass = "SBQQ__ElectronicSignaturePlugin3"
+      enabled = true
+    }
+    SBQQ__ErrorConditionDependencyGenerator = {
+      apexClass = "SBQQ__ErrorConditionDependencyGenerator"
+      enabled = true
+    }
+    SBQQ__ErrorConditionDependencyGeneratorTests = {
+      apexClass = "SBQQ__ErrorConditionDependencyGeneratorTests"
+      enabled = true
+    }
+    SBQQ__ErrorConditionDependencyServiceProvider = {
+      apexClass = "SBQQ__ErrorConditionDependencyServiceProvider"
+      enabled = true
+    }
+    SBQQ__ErrorConditionTrigger = {
+      apexClass = "SBQQ__ErrorConditionTrigger"
+      enabled = true
+    }
+    SBQQ__EvergreenBillingValidationTests = {
+      apexClass = "SBQQ__EvergreenBillingValidationTests"
+      enabled = true
+    }
+    SBQQ__FMAParamUtil = {
+      apexClass = "SBQQ__FMAParamUtil"
+      enabled = true
+    }
+    SBQQ__FavoriteDAO = {
+      apexClass = "SBQQ__FavoriteDAO"
+      enabled = true
+    }
+    SBQQ__FavoriteDAOTests = {
+      apexClass = "SBQQ__FavoriteDAOTests"
+      enabled = true
+    }
+    SBQQ__FavoriteLookupServiceProvider = {
+      apexClass = "SBQQ__FavoriteLookupServiceProvider"
+      enabled = true
+    }
+    SBQQ__FavoriteLookupServiceProviderTests = {
+      apexClass = "SBQQ__FavoriteLookupServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__FavoriteSearchModel = {
+      apexClass = "SBQQ__FavoriteSearchModel"
+      enabled = true
+    }
+    SBQQ__FavoriteService = {
+      apexClass = "SBQQ__FavoriteService"
+      enabled = true
+    }
+    SBQQ__FavoriteServiceTests = {
+      apexClass = "SBQQ__FavoriteServiceTests"
+      enabled = true
+    }
+    SBQQ__FavoriteVO = {
+      apexClass = "SBQQ__FavoriteVO"
+      enabled = true
+    }
+    SBQQ__FavoritesManagerController = {
+      apexClass = "SBQQ__FavoritesManagerController"
+      enabled = true
+    }
+    SBQQ__FavoritesManagerControllerTests = {
+      apexClass = "SBQQ__FavoritesManagerControllerTests"
+      enabled = true
+    }
+    SBQQ__FieldDescriptor = {
+      apexClass = "SBQQ__FieldDescriptor"
+      enabled = true
+    }
+    SBQQ__FieldDescriptorTests = {
+      apexClass = "SBQQ__FieldDescriptorTests"
+      enabled = true
+    }
+    SBQQ__FieldMapper = {
+      apexClass = "SBQQ__FieldMapper"
+      enabled = true
+    }
+    SBQQ__FieldMetaData = {
+      apexClass = "SBQQ__FieldMetaData"
+      enabled = true
+    }
+    SBQQ__FieldSetMetadataDefaultBeforeTest = {
+      apexClass = "SBQQ__FieldSetMetadataDefaultBeforeTest"
+      enabled = true
+    }
+    SBQQ__FieldSetSecure = {
+      apexClass = "SBQQ__FieldSetSecure"
+      enabled = true
+    }
+    SBQQ__FieldSetSecureTests = {
+      apexClass = "SBQQ__FieldSetSecureTests"
+      enabled = true
+    }
+    SBQQ__FieldSetService = {
+      apexClass = "SBQQ__FieldSetService"
+      enabled = true
+    }
+    SBQQ__FieldSetServiceProvider = {
+      apexClass = "SBQQ__FieldSetServiceProvider"
+      enabled = true
+    }
+    SBQQ__FieldValueUpdater = {
+      apexClass = "SBQQ__FieldValueUpdater"
+      enabled = true
+    }
+    SBQQ__FormulaFieldUtils = {
+      apexClass = "SBQQ__FormulaFieldUtils"
+      enabled = true
+    }
+    SBQQ__FormulaFieldUtilsTests = {
+      apexClass = "SBQQ__FormulaFieldUtilsTests"
+      enabled = true
+    }
+    SBQQ__HttpRequestAsserter = {
+      apexClass = "SBQQ__HttpRequestAsserter"
+      enabled = true
+    }
+    SBQQ__ICalculateCallback = {
+      apexClass = "SBQQ__ICalculateCallback"
+      enabled = true
+    }
+    SBQQ__ICalculatorService = {
+      apexClass = "SBQQ__ICalculatorService"
+      enabled = true
+    }
+    SBQQ__IDGenerator = {
+      apexClass = "SBQQ__IDGenerator"
+      enabled = true
+    }
+    SBQQ__IQuoteCalculator = {
+      apexClass = "SBQQ__IQuoteCalculator"
+      enabled = true
+    }
+    SBQQ__IQuoteSaver = {
+      apexClass = "SBQQ__IQuoteSaver"
+      enabled = true
+    }
+    SBQQ__IRestClient = {
+      apexClass = "SBQQ__IRestClient"
+      enabled = true
+    }
+    SBQQ__ImportColumnDAO = {
+      apexClass = "SBQQ__ImportColumnDAO"
+      enabled = true
+    }
+    SBQQ__ImportColumnVO = {
+      apexClass = "SBQQ__ImportColumnVO"
+      enabled = true
+    }
+    SBQQ__ImportFormatDAO = {
+      apexClass = "SBQQ__ImportFormatDAO"
+      enabled = true
+    }
+    SBQQ__ImportFormatDAOTests = {
+      apexClass = "SBQQ__ImportFormatDAOTests"
+      enabled = true
+    }
+    SBQQ__ImportFormatVO = {
+      apexClass = "SBQQ__ImportFormatVO"
+      enabled = true
+    }
+    SBQQ__ImportLinesController = {
+      apexClass = "SBQQ__ImportLinesController"
+      enabled = true
+    }
+    SBQQ__ImportLinesControllerTests = {
+      apexClass = "SBQQ__ImportLinesControllerTests"
+      enabled = true
+    }
+    SBQQ__ImportLinesHandler = {
+      apexClass = "SBQQ__ImportLinesHandler"
+      enabled = true
+    }
+    SBQQ__ImportLinesHandlerTests = {
+      apexClass = "SBQQ__ImportLinesHandlerTests"
+      enabled = true
+    }
+    SBQQ__InstallExecutor = {
+      apexClass = "SBQQ__InstallExecutor"
+      enabled = true
+    }
+    SBQQ__InstallProcessor = {
+      apexClass = "SBQQ__InstallProcessor"
+      enabled = true
+    }
+    SBQQ__InstallProcessorAssignPS = {
+      apexClass = "SBQQ__InstallProcessorAssignPS"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchAssetCombineKey = {
+      apexClass = "SBQQ__InstallProcessorBatchAssetCombineKey"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchHasCS = {
+      apexClass = "SBQQ__InstallProcessorBatchHasCS"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchHasCSTests = {
+      apexClass = "SBQQ__InstallProcessorBatchHasCSTests"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchLocalizationIndex = {
+      apexClass = "SBQQ__InstallProcessorBatchLocalizationIndex"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchOIPricingMethod = {
+      apexClass = "SBQQ__InstallProcessorBatchOIPricingMethod"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchOpportunity2 = {
+      apexClass = "SBQQ__InstallProcessorBatchOpportunity2"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchOrderItemBundleRoot = {
+      apexClass = "SBQQ__InstallProcessorBatchOrderItemBundleRoot"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchOrderItemFields = {
+      apexClass = "SBQQ__InstallProcessorBatchOrderItemFields"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchOrderItemListPrice = {
+      apexClass = "SBQQ__InstallProcessorBatchOrderItemListPrice"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchOrderItemMultiplier = {
+      apexClass = "SBQQ__InstallProcessorBatchOrderItemMultiplier"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchQLIPriceBookEntry = {
+      apexClass = "SBQQ__InstallProcessorBatchQLIPriceBookEntry"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchQuantityEditable = {
+      apexClass = "SBQQ__InstallProcessorBatchQuantityEditable"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchRegularPrice = {
+      apexClass = "SBQQ__InstallProcessorBatchRegularPrice"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchRequiredByAsset = {
+      apexClass = "SBQQ__InstallProcessorBatchRequiredByAsset"
+      enabled = true
+    }
+    SBQQ__InstallProcessorBatchThemeGenerator = {
+      apexClass = "SBQQ__InstallProcessorBatchThemeGenerator"
+      enabled = true
+    }
+    SBQQ__InstallProcessorLogDAO = {
+      apexClass = "SBQQ__InstallProcessorLogDAO"
+      enabled = true
+    }
+    SBQQ__InstallProcessorOrderItemUpdates = {
+      apexClass = "SBQQ__InstallProcessorOrderItemUpdates"
+      enabled = true
+    }
+    SBQQ__InstallProcessorQueueable = {
+      apexClass = "SBQQ__InstallProcessorQueueable"
+      enabled = true
+    }
+    SBQQ__InstallProcessorRefFieldGeneratorTests = {
+      apexClass = "SBQQ__InstallProcessorRefFieldGeneratorTests"
+      enabled = true
+    }
+    SBQQ__InstallProcessorTests = {
+      apexClass = "SBQQ__InstallProcessorTests"
+      enabled = true
+    }
+    SBQQ__JSAGClient = {
+      apexClass = "SBQQ__JSAGClient"
+      enabled = true
+    }
+    SBQQ__JSAGClientTests = {
+      apexClass = "SBQQ__JSAGClientTests"
+      enabled = true
+    }
+    SBQQ__JSAGSerializer = {
+      apexClass = "SBQQ__JSAGSerializer"
+      enabled = true
+    }
+    SBQQ__JSARSettings = {
+      apexClass = "SBQQ__JSARSettings"
+      enabled = true
+    }
+    SBQQ__JSONTests = {
+      apexClass = "SBQQ__JSONTests"
+      enabled = true
+    }
+    SBQQ__JSONUtils = {
+      apexClass = "SBQQ__JSONUtils"
+      enabled = true
+    }
+    SBQQ__JSQCClient = {
+      apexClass = "SBQQ__JSQCClient"
+      enabled = true
+    }
+    SBQQ__JSQCClientTests = {
+      apexClass = "SBQQ__JSQCClientTests"
+      enabled = true
+    }
+    SBQQ__JSQCCustomerLogService = {
+      apexClass = "SBQQ__JSQCCustomerLogService"
+      enabled = true
+    }
+    SBQQ__JSQCLookupFieldServiceProvider = {
+      apexClass = "SBQQ__JSQCLookupFieldServiceProvider"
+      enabled = true
+    }
+    SBQQ__JSQCLookupFieldServiceProviderTests = {
+      apexClass = "SBQQ__JSQCLookupFieldServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__JSQCModel = {
+      apexClass = "SBQQ__JSQCModel"
+      enabled = true
+    }
+    SBQQ__JSQCModelService = {
+      apexClass = "SBQQ__JSQCModelService"
+      enabled = true
+    }
+    SBQQ__JSQCQuoteSerializer = {
+      apexClass = "SBQQ__JSQCQuoteSerializer"
+      enabled = true
+    }
+    SBQQ__JSQCSerializer = {
+      apexClass = "SBQQ__JSQCSerializer"
+      enabled = true
+    }
+    SBQQ__JSQCSettingsSerializer = {
+      apexClass = "SBQQ__JSQCSettingsSerializer"
+      enabled = true
+    }
+    SBQQ__JSRGClient = {
+      apexClass = "SBQQ__JSRGClient"
+      enabled = true
+    }
+    SBQQ__JSRGClientTests = {
+      apexClass = "SBQQ__JSRGClientTests"
+      enabled = true
+    }
+    SBQQ__JobCheckerServiceProvider = {
+      apexClass = "SBQQ__JobCheckerServiceProvider"
+      enabled = true
+    }
+    SBQQ__JobCheckerServiceProviderTests = {
+      apexClass = "SBQQ__JobCheckerServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__JobRecorder = {
+      apexClass = "SBQQ__JobRecorder"
+      enabled = true
+    }
+    SBQQ__JobRecorderTests = {
+      apexClass = "SBQQ__JobRecorderTests"
+      enabled = true
+    }
+    SBQQ__JsarTestDataLoaderTest = {
+      apexClass = "SBQQ__JsarTestDataLoaderTest"
+      enabled = true
+    }
+    SBQQ__LegacyUtils = {
+      apexClass = "SBQQ__LegacyUtils"
+      enabled = true
+    }
+    SBQQ__LicenseCheckerExt = {
+      apexClass = "SBQQ__LicenseCheckerExt"
+      enabled = true
+    }
+    SBQQ__LineColumnTriggerTests = {
+      apexClass = "SBQQ__LineColumnTriggerTests"
+      enabled = true
+    }
+    SBQQ__LineEditorLookupCallout = {
+      apexClass = "SBQQ__LineEditorLookupCallout"
+      enabled = true
+    }
+    SBQQ__LineItemsComponentController = {
+      apexClass = "SBQQ__LineItemsComponentController"
+      enabled = true
+    }
+    SBQQ__LineItemsComponentControllerTests = {
+      apexClass = "SBQQ__LineItemsComponentControllerTests"
+      enabled = true
+    }
+    SBQQ__ListModel = {
+      apexClass = "SBQQ__ListModel"
+      enabled = true
+    }
+    SBQQ__ListModelTests = {
+      apexClass = "SBQQ__ListModelTests"
+      enabled = true
+    }
+    SBQQ__LocalizationController = {
+      apexClass = "SBQQ__LocalizationController"
+      enabled = true
+    }
+    SBQQ__LocalizationControllerTests = {
+      apexClass = "SBQQ__LocalizationControllerTests"
+      enabled = true
+    }
+    SBQQ__LocalizationDAO = {
+      apexClass = "SBQQ__LocalizationDAO"
+      enabled = true
+    }
+    SBQQ__LocalizationDAOTests = {
+      apexClass = "SBQQ__LocalizationDAOTests"
+      enabled = true
+    }
+    SBQQ__LocalizationFactory = {
+      apexClass = "SBQQ__LocalizationFactory"
+      enabled = true
+    }
+    SBQQ__LocalizationFactoryTests = {
+      apexClass = "SBQQ__LocalizationFactoryTests"
+      enabled = true
+    }
+    SBQQ__LocalizationIndexSearcher = {
+      apexClass = "SBQQ__LocalizationIndexSearcher"
+      enabled = true
+    }
+    SBQQ__LocalizationIndexTests = {
+      apexClass = "SBQQ__LocalizationIndexTests"
+      enabled = true
+    }
+    SBQQ__LocalizationVO = {
+      apexClass = "SBQQ__LocalizationVO"
+      enabled = true
+    }
+    SBQQ__LocalizationVOTests = {
+      apexClass = "SBQQ__LocalizationVOTests"
+      enabled = true
+    }
+    SBQQ__LookupQueryTrigger = {
+      apexClass = "SBQQ__LookupQueryTrigger"
+      enabled = true
+    }
+    SBQQ__LookupTableCallout = {
+      apexClass = "SBQQ__LookupTableCallout"
+      enabled = true
+    }
+    SBQQ__LookupTableCalloutTests = {
+      apexClass = "SBQQ__LookupTableCalloutTests"
+      enabled = true
+    }
+    SBQQ__LookupTableServiceProvider = {
+      apexClass = "SBQQ__LookupTableServiceProvider"
+      enabled = true
+    }
+    SBQQ__LookupTableServiceProviderTest = {
+      apexClass = "SBQQ__LookupTableServiceProviderTest"
+      enabled = true
+    }
+    SBQQ__MappingUtils = {
+      apexClass = "SBQQ__MappingUtils"
+      enabled = true
+    }
+    SBQQ__MappingUtilsTests = {
+      apexClass = "SBQQ__MappingUtilsTests"
+      enabled = true
+    }
+    SBQQ__MassQuoteDocumentSender = {
+      apexClass = "SBQQ__MassQuoteDocumentSender"
+      enabled = true
+    }
+    SBQQ__MassQuoteDocumentSenderTests = {
+      apexClass = "SBQQ__MassQuoteDocumentSenderTests"
+      enabled = true
+    }
+    SBQQ__MergeFieldProcessor = {
+      apexClass = "SBQQ__MergeFieldProcessor"
+      enabled = true
+    }
+    SBQQ__MergeFieldProcessorTests = {
+      apexClass = "SBQQ__MergeFieldProcessorTests"
+      enabled = true
+    }
+    SBQQ__MetaDataConverter = {
+      apexClass = "SBQQ__MetaDataConverter"
+      enabled = true
+    }
+    SBQQ__MetaDataConverterTests = {
+      apexClass = "SBQQ__MetaDataConverterTests"
+      enabled = true
+    }
+    SBQQ__MetaDataServiceProvider = {
+      apexClass = "SBQQ__MetaDataServiceProvider"
+      enabled = true
+    }
+    SBQQ__MetaDataServiceProviderTests = {
+      apexClass = "SBQQ__MetaDataServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__MetaDataUtils = {
+      apexClass = "SBQQ__MetaDataUtils"
+      enabled = true
+    }
+    SBQQ__MetaDataUtilsTests = {
+      apexClass = "SBQQ__MetaDataUtilsTests"
+      enabled = true
+    }
+    SBQQ__MetricsService = {
+      apexClass = "SBQQ__MetricsService"
+      enabled = true
+    }
+    SBQQ__MetricsServiceTests = {
+      apexClass = "SBQQ__MetricsServiceTests"
+      enabled = true
+    }
+    SBQQ__MockDatabase = {
+      apexClass = "SBQQ__MockDatabase"
+      enabled = true
+    }
+    SBQQ__MockExceptionProvider = {
+      apexClass = "SBQQ__MockExceptionProvider"
+      enabled = true
+    }
+    SBQQ__MockFieldSetService = {
+      apexClass = "SBQQ__MockFieldSetService"
+      enabled = true
+    }
+    SBQQ__MultiLineTextComponentController = {
+      apexClass = "SBQQ__MultiLineTextComponentController"
+      enabled = true
+    }
+    SBQQ__MultiLineTextComponentControllerTests = {
+      apexClass = "SBQQ__MultiLineTextComponentControllerTests"
+      enabled = true
+    }
+    SBQQ__NamespaceUtils = {
+      apexClass = "SBQQ__NamespaceUtils"
+      enabled = true
+    }
+    SBQQ__OAuthClient = {
+      apexClass = "SBQQ__OAuthClient"
+      enabled = true
+    }
+    SBQQ__OAuthClientTests = {
+      apexClass = "SBQQ__OAuthClientTests"
+      enabled = true
+    }
+    SBQQ__OAuthExtension = {
+      apexClass = "SBQQ__OAuthExtension"
+      enabled = true
+    }
+    SBQQ__OAuthService = {
+      apexClass = "SBQQ__OAuthService"
+      enabled = true
+    }
+    SBQQ__OAuthServiceTests = {
+      apexClass = "SBQQ__OAuthServiceTests"
+      enabled = true
+    }
+    SBQQ__OAuthSettings = {
+      apexClass = "SBQQ__OAuthSettings"
+      enabled = true
+    }
+    SBQQ__OLITestDataLoader = {
+      apexClass = "SBQQ__OLITestDataLoader"
+      enabled = true
+    }
+    SBQQ__OWDService = {
+      apexClass = "SBQQ__OWDService"
+      enabled = true
+    }
+    SBQQ__OWDServiceTest = {
+      apexClass = "SBQQ__OWDServiceTest"
+      enabled = true
+    }
+    SBQQ__ObjectDescriptor = {
+      apexClass = "SBQQ__ObjectDescriptor"
+      enabled = true
+    }
+    SBQQ__ObjectDescriptorTests = {
+      apexClass = "SBQQ__ObjectDescriptorTests"
+      enabled = true
+    }
+    SBQQ__ObjectManager = {
+      apexClass = "SBQQ__ObjectManager"
+      enabled = true
+    }
+    SBQQ__Operators = {
+      apexClass = "SBQQ__Operators"
+      enabled = true
+    }
+    SBQQ__OperatorsTests = {
+      apexClass = "SBQQ__OperatorsTests"
+      enabled = true
+    }
+    SBQQ__OpportunityLineItemDAO = {
+      apexClass = "SBQQ__OpportunityLineItemDAO"
+      enabled = true
+    }
+    SBQQ__OpportunityLineItemDAOTest = {
+      apexClass = "SBQQ__OpportunityLineItemDAOTest"
+      enabled = true
+    }
+    SBQQ__OpportunityLineItemTriggerControl = {
+      apexClass = "SBQQ__OpportunityLineItemTriggerControl"
+      enabled = true
+    }
+    SBQQ__OpportunityService = {
+      apexClass = "SBQQ__OpportunityService"
+      enabled = true
+    }
+    SBQQ__OpportunityServiceProvider = {
+      apexClass = "SBQQ__OpportunityServiceProvider"
+      enabled = true
+    }
+    SBQQ__OpportunityServiceTests = {
+      apexClass = "SBQQ__OpportunityServiceTests"
+      enabled = true
+    }
+    SBQQ__OptionConstraintTests = {
+      apexClass = "SBQQ__OptionConstraintTests"
+      enabled = true
+    }
+    SBQQ__OrderBundleTest = {
+      apexClass = "SBQQ__OrderBundleTest"
+      enabled = true
+    }
+    SBQQ__OrderCRUDTest = {
+      apexClass = "SBQQ__OrderCRUDTest"
+      enabled = true
+    }
+    SBQQ__OrderConstants = {
+      apexClass = "SBQQ__OrderConstants"
+      enabled = true
+    }
+    SBQQ__OrderContractTest = {
+      apexClass = "SBQQ__OrderContractTest"
+      enabled = true
+    }
+    SBQQ__OrderController = {
+      apexClass = "SBQQ__OrderController"
+      enabled = true
+    }
+    SBQQ__OrderControllerTest = {
+      apexClass = "SBQQ__OrderControllerTest"
+      enabled = true
+    }
+    SBQQ__OrderCreateController = {
+      apexClass = "SBQQ__OrderCreateController"
+      enabled = true
+    }
+    SBQQ__OrderCreateControllerTest = {
+      apexClass = "SBQQ__OrderCreateControllerTest"
+      enabled = true
+    }
+    SBQQ__OrderDAO = {
+      apexClass = "SBQQ__OrderDAO"
+      enabled = true
+    }
+    SBQQ__OrderDateTest = {
+      apexClass = "SBQQ__OrderDateTest"
+      enabled = true
+    }
+    SBQQ__OrderDateUtils = {
+      apexClass = "SBQQ__OrderDateUtils"
+      enabled = true
+    }
+    SBQQ__OrderEndToEndTest = {
+      apexClass = "SBQQ__OrderEndToEndTest"
+      enabled = true
+    }
+    SBQQ__OrderEvergreenTest = {
+      apexClass = "SBQQ__OrderEvergreenTest"
+      enabled = true
+    }
+    SBQQ__OrderException = {
+      apexClass = "SBQQ__OrderException"
+      enabled = true
+    }
+    SBQQ__OrderFieldMapper = {
+      apexClass = "SBQQ__OrderFieldMapper"
+      enabled = true
+    }
+    SBQQ__OrderFieldMappingTest = {
+      apexClass = "SBQQ__OrderFieldMappingTest"
+      enabled = true
+    }
+    SBQQ__OrderGenerator = {
+      apexClass = "SBQQ__OrderGenerator"
+      enabled = true
+    }
+    SBQQ__OrderItemConsumptionImpl = {
+      apexClass = "SBQQ__OrderItemConsumptionImpl"
+      enabled = true
+    }
+    SBQQ__OrderItemConsumptionImplTests = {
+      apexClass = "SBQQ__OrderItemConsumptionImplTests"
+      enabled = true
+    }
+    SBQQ__OrderItemObjectManager = {
+      apexClass = "SBQQ__OrderItemObjectManager"
+      enabled = true
+    }
+    SBQQ__OrderItemVO = {
+      apexClass = "SBQQ__OrderItemVO"
+      enabled = true
+    }
+    SBQQ__OrderMDQTest = {
+      apexClass = "SBQQ__OrderMDQTest"
+      enabled = true
+    }
+    SBQQ__OrderManagementPlugin = {
+      apexClass = "SBQQ__OrderManagementPlugin"
+      enabled = true
+    }
+    SBQQ__OrderMiscTest = {
+      apexClass = "SBQQ__OrderMiscTest"
+      enabled = true
+    }
+    SBQQ__OrderObjectManager = {
+      apexClass = "SBQQ__OrderObjectManager"
+      enabled = true
+    }
+    SBQQ__OrderPercentOfTotalTest = {
+      apexClass = "SBQQ__OrderPercentOfTotalTest"
+      enabled = true
+    }
+    SBQQ__OrderPriceCalculatorService = {
+      apexClass = "SBQQ__OrderPriceCalculatorService"
+      enabled = true
+    }
+    SBQQ__OrderPriceCalculatorServiceTest = {
+      apexClass = "SBQQ__OrderPriceCalculatorServiceTest"
+      enabled = true
+    }
+    SBQQ__OrderPriceScheduleTest = {
+      apexClass = "SBQQ__OrderPriceScheduleTest"
+      enabled = true
+    }
+    SBQQ__OrderPriceScheduleUtils = {
+      apexClass = "SBQQ__OrderPriceScheduleUtils"
+      enabled = true
+    }
+    SBQQ__OrderProductConsumptionScheduleTests = {
+      apexClass = "SBQQ__OrderProductConsumptionScheduleTests"
+      enabled = true
+    }
+    SBQQ__OrderProductDAO = {
+      apexClass = "SBQQ__OrderProductDAO"
+      enabled = true
+    }
+    SBQQ__OrderProductObjectManager = {
+      apexClass = "SBQQ__OrderProductObjectManager"
+      enabled = true
+    }
+    SBQQ__OrderService = {
+      apexClass = "SBQQ__OrderService"
+      enabled = true
+    }
+    SBQQ__OrderStateAndCountryPicklistTest = {
+      apexClass = "SBQQ__OrderStateAndCountryPicklistTest"
+      enabled = true
+    }
+    SBQQ__OrderTestBase = {
+      apexClass = "SBQQ__OrderTestBase"
+      enabled = true
+    }
+    SBQQ__OrderTriggerControl = {
+      apexClass = "SBQQ__OrderTriggerControl"
+      enabled = true
+    }
+    SBQQ__OrderUtils = {
+      apexClass = "SBQQ__OrderUtils"
+      enabled = true
+    }
+    SBQQ__OrderUtilsWithoutSharing = {
+      apexClass = "SBQQ__OrderUtilsWithoutSharing"
+      enabled = true
+    }
+    SBQQ__OrderVO = {
+      apexClass = "SBQQ__OrderVO"
+      enabled = true
+    }
+    SBQQ__PageActionController = {
+      apexClass = "SBQQ__PageActionController"
+      enabled = true
+    }
+    SBQQ__PageSecurityPlugin = {
+      apexClass = "SBQQ__PageSecurityPlugin"
+      enabled = true
+    }
+    SBQQ__PageSecurityPlugin2 = {
+      apexClass = "SBQQ__PageSecurityPlugin2"
+      enabled = true
+    }
+    SBQQ__PaginationContainers = {
+      apexClass = "SBQQ__PaginationContainers"
+      enabled = true
+    }
+    SBQQ__PartnerCloneService = {
+      apexClass = "SBQQ__PartnerCloneService"
+      enabled = true
+    }
+    SBQQ__PauseApexUtils = {
+      apexClass = "SBQQ__PauseApexUtils"
+      enabled = true
+    }
+    SBQQ__PauseApexUtilsTests = {
+      apexClass = "SBQQ__PauseApexUtilsTests"
+      enabled = true
+    }
+    SBQQ__PermissionSetsProcessor = {
+      apexClass = "SBQQ__PermissionSetsProcessor"
+      enabled = true
+    }
+    SBQQ__PermissionSetsService = {
+      apexClass = "SBQQ__PermissionSetsService"
+      enabled = true
+    }
+    SBQQ__PermissionUtil = {
+      apexClass = "SBQQ__PermissionUtil"
+      enabled = true
+    }
+    SBQQ__PicklistValuesOptionModel = {
+      apexClass = "SBQQ__PicklistValuesOptionModel"
+      enabled = true
+    }
+    SBQQ__PicklistValuesOptionModelTests = {
+      apexClass = "SBQQ__PicklistValuesOptionModelTests"
+      enabled = true
+    }
+    SBQQ__PluginManager = {
+      apexClass = "SBQQ__PluginManager"
+      enabled = true
+    }
+    SBQQ__PluginManagerTests = {
+      apexClass = "SBQQ__PluginManagerTests"
+      enabled = true
+    }
+    SBQQ__PrepopulateQuoteService = {
+      apexClass = "SBQQ__PrepopulateQuoteService"
+      enabled = true
+    }
+    SBQQ__PriceActionBeforeTriggerTests = {
+      apexClass = "SBQQ__PriceActionBeforeTriggerTests"
+      enabled = true
+    }
+    SBQQ__PriceActionTrigger = {
+      apexClass = "SBQQ__PriceActionTrigger"
+      enabled = true
+    }
+    SBQQ__PriceConditionTrigger = {
+      apexClass = "SBQQ__PriceConditionTrigger"
+      enabled = true
+    }
+    SBQQ__PriceRuleDAO = {
+      apexClass = "SBQQ__PriceRuleDAO"
+      enabled = true
+    }
+    SBQQ__PriceRuleDAOTests = {
+      apexClass = "SBQQ__PriceRuleDAOTests"
+      enabled = true
+    }
+    SBQQ__PriceRuleExtController = {
+      apexClass = "SBQQ__PriceRuleExtController"
+      enabled = true
+    }
+    SBQQ__PriceRuleExtControllerTests = {
+      apexClass = "SBQQ__PriceRuleExtControllerTests"
+      enabled = true
+    }
+    SBQQ__PriceRuleRefFieldGenerator = {
+      apexClass = "SBQQ__PriceRuleRefFieldGenerator"
+      enabled = true
+    }
+    SBQQ__PriceRuleServiceProvider = {
+      apexClass = "SBQQ__PriceRuleServiceProvider"
+      enabled = true
+    }
+    SBQQ__PriceRuleTrigger = {
+      apexClass = "SBQQ__PriceRuleTrigger"
+      enabled = true
+    }
+    SBQQ__PriceRuleTriggerTests = {
+      apexClass = "SBQQ__PriceRuleTriggerTests"
+      enabled = true
+    }
+    SBQQ__PriceSchedule = {
+      apexClass = "SBQQ__PriceSchedule"
+      enabled = true
+    }
+    SBQQ__PriceTier = {
+      apexClass = "SBQQ__PriceTier"
+      enabled = true
+    }
+    SBQQ__PricebookEntryDAO = {
+      apexClass = "SBQQ__PricebookEntryDAO"
+      enabled = true
+    }
+    SBQQ__PricebookEntryDAOTests = {
+      apexClass = "SBQQ__PricebookEntryDAOTests"
+      enabled = true
+    }
+    SBQQ__PricingGuidanceDAO = {
+      apexClass = "SBQQ__PricingGuidanceDAO"
+      enabled = true
+    }
+    SBQQ__PricingGuidanceDAOTests = {
+      apexClass = "SBQQ__PricingGuidanceDAOTests"
+      enabled = true
+    }
+    SBQQ__PricingGuidanceModel = {
+      apexClass = "SBQQ__PricingGuidanceModel"
+      enabled = true
+    }
+    SBQQ__PricingGuidanceModelTests = {
+      apexClass = "SBQQ__PricingGuidanceModelTests"
+      enabled = true
+    }
+    SBQQ__PricingGuidanceService = {
+      apexClass = "SBQQ__PricingGuidanceService"
+      enabled = true
+    }
+    SBQQ__PricingGuidanceServiceProvider = {
+      apexClass = "SBQQ__PricingGuidanceServiceProvider"
+      enabled = true
+    }
+    SBQQ__PricingGuidanceServiceProviderTests = {
+      apexClass = "SBQQ__PricingGuidanceServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__PricingGuidanceServiceTests = {
+      apexClass = "SBQQ__PricingGuidanceServiceTests"
+      enabled = true
+    }
+    SBQQ__PricingGuidanceTierModel = {
+      apexClass = "SBQQ__PricingGuidanceTierModel"
+      enabled = true
+    }
+    SBQQ__PricingGuidanceTierModelTests = {
+      apexClass = "SBQQ__PricingGuidanceTierModelTests"
+      enabled = true
+    }
+    SBQQ__ProcessInputInitializer = {
+      apexClass = "SBQQ__ProcessInputInitializer"
+      enabled = true
+    }
+    SBQQ__ProcessInputTriggerTests = {
+      apexClass = "SBQQ__ProcessInputTriggerTests"
+      enabled = true
+    }
+    SBQQ__ProcessInputValueDAO = {
+      apexClass = "SBQQ__ProcessInputValueDAO"
+      enabled = true
+    }
+    SBQQ__ProcessInputValueDAOTest = {
+      apexClass = "SBQQ__ProcessInputValueDAOTest"
+      enabled = true
+    }
+    SBQQ__ProcessTestServiceProvider = {
+      apexClass = "SBQQ__ProcessTestServiceProvider"
+      enabled = true
+    }
+    SBQQ__ProductAPI = {
+      apexClass = "SBQQ__ProductAPI"
+      enabled = true
+    }
+    SBQQ__ProductAPITests = {
+      apexClass = "SBQQ__ProductAPITests"
+      enabled = true
+    }
+    SBQQ__ProductActionTrigger = {
+      apexClass = "SBQQ__ProductActionTrigger"
+      enabled = true
+    }
+    SBQQ__ProductAttributeDAO = {
+      apexClass = "SBQQ__ProductAttributeDAO"
+      enabled = true
+    }
+    SBQQ__ProductAttributeDAOTests = {
+      apexClass = "SBQQ__ProductAttributeDAOTests"
+      enabled = true
+    }
+    SBQQ__ProductBundleTestUtil = {
+      apexClass = "SBQQ__ProductBundleTestUtil"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationController = {
+      apexClass = "SBQQ__ProductConfigurationController"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationControllerTests = {
+      apexClass = "SBQQ__ProductConfigurationControllerTests"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationInitializer = {
+      apexClass = "SBQQ__ProductConfigurationInitializer"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationInitializerTests = {
+      apexClass = "SBQQ__ProductConfigurationInitializerTests"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationLoader = {
+      apexClass = "SBQQ__ProductConfigurationLoader"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationLoaderTests = {
+      apexClass = "SBQQ__ProductConfigurationLoaderTests"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationService = {
+      apexClass = "SBQQ__ProductConfigurationService"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationServiceProvider = {
+      apexClass = "SBQQ__ProductConfigurationServiceProvider"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationServiceTests = {
+      apexClass = "SBQQ__ProductConfigurationServiceTests"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationSitesController = {
+      apexClass = "SBQQ__ProductConfigurationSitesController"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationSitesControllerTests = {
+      apexClass = "SBQQ__ProductConfigurationSitesControllerTests"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationVO = {
+      apexClass = "SBQQ__ProductConfigurationVO"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationVOTests = {
+      apexClass = "SBQQ__ProductConfigurationVOTests"
+      enabled = true
+    }
+    SBQQ__ProductConfigurationValidator = {
+      apexClass = "SBQQ__ProductConfigurationValidator"
+      enabled = true
+    }
+    SBQQ__ProductConsumptionImpl = {
+      apexClass = "SBQQ__ProductConsumptionImpl"
+      enabled = true
+    }
+    SBQQ__ProductConsumptionImplTests = {
+      apexClass = "SBQQ__ProductConsumptionImplTests"
+      enabled = true
+    }
+    SBQQ__ProductConsumptionScheduleTrigger = {
+      apexClass = "SBQQ__ProductConsumptionScheduleTrigger"
+      enabled = true
+    }
+    SBQQ__ProductConsumptionScheduleTriggerTests = {
+      apexClass = "SBQQ__ProductConsumptionScheduleTriggerTests"
+      enabled = true
+    }
+    SBQQ__ProductDAO = {
+      apexClass = "SBQQ__ProductDAO"
+      enabled = true
+    }
+    SBQQ__ProductDAOTests = {
+      apexClass = "SBQQ__ProductDAOTests"
+      enabled = true
+    }
+    SBQQ__ProductEvergreenTests = {
+      apexClass = "SBQQ__ProductEvergreenTests"
+      enabled = true
+    }
+    SBQQ__ProductExtController = {
+      apexClass = "SBQQ__ProductExtController"
+      enabled = true
+    }
+    SBQQ__ProductExtControllerTests = {
+      apexClass = "SBQQ__ProductExtControllerTests"
+      enabled = true
+    }
+    SBQQ__ProductFactory = {
+      apexClass = "SBQQ__ProductFactory"
+      enabled = true
+    }
+    SBQQ__ProductFactoryTests = {
+      apexClass = "SBQQ__ProductFactoryTests"
+      enabled = true
+    }
+    SBQQ__ProductLookupController = {
+      apexClass = "SBQQ__ProductLookupController"
+      enabled = true
+    }
+    SBQQ__ProductLookupControllerTests = {
+      apexClass = "SBQQ__ProductLookupControllerTests"
+      enabled = true
+    }
+    SBQQ__ProductLookupServiceProvider = {
+      apexClass = "SBQQ__ProductLookupServiceProvider"
+      enabled = true
+    }
+    SBQQ__ProductModel = {
+      apexClass = "SBQQ__ProductModel"
+      enabled = true
+    }
+    SBQQ__ProductModelTests = {
+      apexClass = "SBQQ__ProductModelTests"
+      enabled = true
+    }
+    SBQQ__ProductOptionDAO = {
+      apexClass = "SBQQ__ProductOptionDAO"
+      enabled = true
+    }
+    SBQQ__ProductOptionDAOTests = {
+      apexClass = "SBQQ__ProductOptionDAOTests"
+      enabled = true
+    }
+    SBQQ__ProductOptionPriceRuleEvaluator = {
+      apexClass = "SBQQ__ProductOptionPriceRuleEvaluator"
+      enabled = true
+    }
+    SBQQ__ProductOptionPriceRuleEvaluatorTests = {
+      apexClass = "SBQQ__ProductOptionPriceRuleEvaluatorTests"
+      enabled = true
+    }
+    SBQQ__ProductOptionServiceProvider = {
+      apexClass = "SBQQ__ProductOptionServiceProvider"
+      enabled = true
+    }
+    SBQQ__ProductOptionServiceProviderTests = {
+      apexClass = "SBQQ__ProductOptionServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__ProductOptionTests = {
+      apexClass = "SBQQ__ProductOptionTests"
+      enabled = true
+    }
+    SBQQ__ProductOptionTree = {
+      apexClass = "SBQQ__ProductOptionTree"
+      enabled = true
+    }
+    SBQQ__ProductOptionTreeTests = {
+      apexClass = "SBQQ__ProductOptionTreeTests"
+      enabled = true
+    }
+    SBQQ__ProductRecommendationPlugin = {
+      apexClass = "SBQQ__ProductRecommendationPlugin"
+      enabled = true
+    }
+    SBQQ__ProductRecommendationPluginTests = {
+      apexClass = "SBQQ__ProductRecommendationPluginTests"
+      enabled = true
+    }
+    SBQQ__ProductRefFieldGenerator = {
+      apexClass = "SBQQ__ProductRefFieldGenerator"
+      enabled = true
+    }
+    SBQQ__ProductRuleAlert = {
+      apexClass = "SBQQ__ProductRuleAlert"
+      enabled = true
+    }
+    SBQQ__ProductRuleAlertTests = {
+      apexClass = "SBQQ__ProductRuleAlertTests"
+      enabled = true
+    }
+    SBQQ__ProductRuleDAO = {
+      apexClass = "SBQQ__ProductRuleDAO"
+      enabled = true
+    }
+    SBQQ__ProductRuleDAOTests = {
+      apexClass = "SBQQ__ProductRuleDAOTests"
+      enabled = true
+    }
+    SBQQ__ProductRuleExecutor = {
+      apexClass = "SBQQ__ProductRuleExecutor"
+      enabled = true
+    }
+    SBQQ__ProductRuleExecutorTests = {
+      apexClass = "SBQQ__ProductRuleExecutorTests"
+      enabled = true
+    }
+    SBQQ__ProductRuleExtController = {
+      apexClass = "SBQQ__ProductRuleExtController"
+      enabled = true
+    }
+    SBQQ__ProductRuleExtControllerTests = {
+      apexClass = "SBQQ__ProductRuleExtControllerTests"
+      enabled = true
+    }
+    SBQQ__ProductRuleRefFieldGenerator = {
+      apexClass = "SBQQ__ProductRuleRefFieldGenerator"
+      enabled = true
+    }
+    SBQQ__ProductRuleServiceProvider = {
+      apexClass = "SBQQ__ProductRuleServiceProvider"
+      enabled = true
+    }
+    SBQQ__ProductRuleServiceProviderTests = {
+      apexClass = "SBQQ__ProductRuleServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__ProductRuleTestUtil = {
+      apexClass = "SBQQ__ProductRuleTestUtil"
+      enabled = true
+    }
+    SBQQ__ProductRuleTrigger = {
+      apexClass = "SBQQ__ProductRuleTrigger"
+      enabled = true
+    }
+    SBQQ__ProductRuleTriggerTests = {
+      apexClass = "SBQQ__ProductRuleTriggerTests"
+      enabled = true
+    }
+    SBQQ__ProductRuleVaidatorTests = {
+      apexClass = "SBQQ__ProductRuleVaidatorTests"
+      enabled = true
+    }
+    SBQQ__ProductRuleValidator = {
+      apexClass = "SBQQ__ProductRuleValidator"
+      enabled = true
+    }
+    SBQQ__ProductSearchAdapter = {
+      apexClass = "SBQQ__ProductSearchAdapter"
+      enabled = true
+    }
+    SBQQ__ProductSearchAdapterTests = {
+      apexClass = "SBQQ__ProductSearchAdapterTests"
+      enabled = true
+    }
+    SBQQ__ProductSearchExecutor = {
+      apexClass = "SBQQ__ProductSearchExecutor"
+      enabled = true
+    }
+    SBQQ__ProductSearchExecutorTests = {
+      apexClass = "SBQQ__ProductSearchExecutorTests"
+      enabled = true
+    }
+    SBQQ__ProductSearchModel = {
+      apexClass = "SBQQ__ProductSearchModel"
+      enabled = true
+    }
+    SBQQ__ProductSearchPlugin = {
+      apexClass = "SBQQ__ProductSearchPlugin"
+      enabled = true
+    }
+    SBQQ__ProductSelectionModel = {
+      apexClass = "SBQQ__ProductSelectionModel"
+      enabled = true
+    }
+    SBQQ__ProductSelectionModelTests = {
+      apexClass = "SBQQ__ProductSelectionModelTests"
+      enabled = true
+    }
+    SBQQ__ProductService = {
+      apexClass = "SBQQ__ProductService"
+      enabled = true
+    }
+    SBQQ__ProductServiceProvider = {
+      apexClass = "SBQQ__ProductServiceProvider"
+      enabled = true
+    }
+    SBQQ__ProductServiceProviderTests = {
+      apexClass = "SBQQ__ProductServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__ProductServiceTests = {
+      apexClass = "SBQQ__ProductServiceTests"
+      enabled = true
+    }
+    SBQQ__ProductServices = {
+      apexClass = "SBQQ__ProductServices"
+      enabled = true
+    }
+    SBQQ__ProductTestBase = {
+      apexClass = "SBQQ__ProductTestBase"
+      enabled = true
+    }
+    SBQQ__ProductTrigger = {
+      apexClass = "SBQQ__ProductTrigger"
+      enabled = true
+    }
+    SBQQ__ProductTriggerControl = {
+      apexClass = "SBQQ__ProductTriggerControl"
+      enabled = true
+    }
+    SBQQ__ProductTriggerTests = {
+      apexClass = "SBQQ__ProductTriggerTests"
+      enabled = true
+    }
+    SBQQ__ProductUpgradeController = {
+      apexClass = "SBQQ__ProductUpgradeController"
+      enabled = true
+    }
+    SBQQ__ProductUpgradeControllerTests = {
+      apexClass = "SBQQ__ProductUpgradeControllerTests"
+      enabled = true
+    }
+    SBQQ__ProductVO = {
+      apexClass = "SBQQ__ProductVO"
+      enabled = true
+    }
+    SBQQ__ProductVOTests = {
+      apexClass = "SBQQ__ProductVOTests"
+      enabled = true
+    }
+    SBQQ__ProposalGenerator = {
+      apexClass = "SBQQ__ProposalGenerator"
+      enabled = true
+    }
+    SBQQ__ProposalGeneratorTests = {
+      apexClass = "SBQQ__ProposalGeneratorTests"
+      enabled = true
+    }
+    SBQQ__PublicAPITests = {
+      apexClass = "SBQQ__PublicAPITests"
+      enabled = true
+    }
+    SBQQ__QueryBuilder = {
+      apexClass = "SBQQ__QueryBuilder"
+      enabled = true
+    }
+    SBQQ__QueryBuilderTests = {
+      apexClass = "SBQQ__QueryBuilderTests"
+      enabled = true
+    }
+    SBQQ__Queryable = {
+      apexClass = "SBQQ__Queryable"
+      enabled = true
+    }
+    SBQQ__QueueableAmendmentService = {
+      apexClass = "SBQQ__QueueableAmendmentService"
+      enabled = true
+    }
+    SBQQ__QueueableCalculatorService = {
+      apexClass = "SBQQ__QueueableCalculatorService"
+      enabled = true
+    }
+    SBQQ__QueueableCalculatorServiceTests = {
+      apexClass = "SBQQ__QueueableCalculatorServiceTests"
+      enabled = true
+    }
+    SBQQ__QueueableContractOrdersClient = {
+      apexClass = "SBQQ__QueueableContractOrdersClient"
+      enabled = true
+    }
+    SBQQ__QueueableJobCheckerExt = {
+      apexClass = "SBQQ__QueueableJobCheckerExt"
+      enabled = true
+    }
+    SBQQ__QueueableJobCheckerExtTests = {
+      apexClass = "SBQQ__QueueableJobCheckerExtTests"
+      enabled = true
+    }
+    SBQQ__QueueableProductServices = {
+      apexClass = "SBQQ__QueueableProductServices"
+      enabled = true
+    }
+    SBQQ__QueueableQuoteDocumentService = {
+      apexClass = "SBQQ__QueueableQuoteDocumentService"
+      enabled = true
+    }
+    SBQQ__QueueableTranspilerService = {
+      apexClass = "SBQQ__QueueableTranspilerService"
+      enabled = true
+    }
+    SBQQ__QuoteAPI = {
+      apexClass = "SBQQ__QuoteAPI"
+      enabled = true
+    }
+    SBQQ__QuoteAPITests = {
+      apexClass = "SBQQ__QuoteAPITests"
+      enabled = true
+    }
+    SBQQ__QuoteCalculator = {
+      apexClass = "SBQQ__QuoteCalculator"
+      enabled = true
+    }
+    SBQQ__QuoteCalculatorFactory = {
+      apexClass = "SBQQ__QuoteCalculatorFactory"
+      enabled = true
+    }
+    SBQQ__QuoteCalculatorFactoryTests = {
+      apexClass = "SBQQ__QuoteCalculatorFactoryTests"
+      enabled = true
+    }
+    SBQQ__QuoteCalculatorPlugin = {
+      apexClass = "SBQQ__QuoteCalculatorPlugin"
+      enabled = true
+    }
+    SBQQ__QuoteCalculatorPlugin2 = {
+      apexClass = "SBQQ__QuoteCalculatorPlugin2"
+      enabled = true
+    }
+    SBQQ__QuoteCalculatorRefundTests = {
+      apexClass = "SBQQ__QuoteCalculatorRefundTests"
+      enabled = true
+    }
+    SBQQ__QuoteCalculatorTests = {
+      apexClass = "SBQQ__QuoteCalculatorTests"
+      enabled = true
+    }
+    SBQQ__QuoteDAO = {
+      apexClass = "SBQQ__QuoteDAO"
+      enabled = true
+    }
+    SBQQ__QuoteDAOFactory = {
+      apexClass = "SBQQ__QuoteDAOFactory"
+      enabled = true
+    }
+    SBQQ__QuoteDAOTests2 = {
+      apexClass = "SBQQ__QuoteDAOTests2"
+      enabled = true
+    }
+    SBQQ__QuoteDataProcessor = {
+      apexClass = "SBQQ__QuoteDataProcessor"
+      enabled = true
+    }
+    SBQQ__QuoteDataProcessorTests = {
+      apexClass = "SBQQ__QuoteDataProcessorTests"
+      enabled = true
+    }
+    SBQQ__QuoteDocumentAPI = {
+      apexClass = "SBQQ__QuoteDocumentAPI"
+      enabled = true
+    }
+    SBQQ__QuoteDocumentController = {
+      apexClass = "SBQQ__QuoteDocumentController"
+      enabled = true
+    }
+    SBQQ__QuoteDocumentControllerTests = {
+      apexClass = "SBQQ__QuoteDocumentControllerTests"
+      enabled = true
+    }
+    SBQQ__QuoteDocumentMarkupGenerator = {
+      apexClass = "SBQQ__QuoteDocumentMarkupGenerator"
+      enabled = true
+    }
+    SBQQ__QuoteDocumentModel = {
+      apexClass = "SBQQ__QuoteDocumentModel"
+      enabled = true
+    }
+    SBQQ__QuoteDocumentService = {
+      apexClass = "SBQQ__QuoteDocumentService"
+      enabled = true
+    }
+    SBQQ__QuoteDocumentTriggerTests = {
+      apexClass = "SBQQ__QuoteDocumentTriggerTests"
+      enabled = true
+    }
+    SBQQ__QuoteDocumentUtils = {
+      apexClass = "SBQQ__QuoteDocumentUtils"
+      enabled = true
+    }
+    SBQQ__QuoteEditorController = {
+      apexClass = "SBQQ__QuoteEditorController"
+      enabled = true
+    }
+    SBQQ__QuoteEditorControllerTests = {
+      apexClass = "SBQQ__QuoteEditorControllerTests"
+      enabled = true
+    }
+    SBQQ__QuoteEditorModel = {
+      apexClass = "SBQQ__QuoteEditorModel"
+      enabled = true
+    }
+    SBQQ__QuoteExtController = {
+      apexClass = "SBQQ__QuoteExtController"
+      enabled = true
+    }
+    SBQQ__QuoteExtControllerTests = {
+      apexClass = "SBQQ__QuoteExtControllerTests"
+      enabled = true
+    }
+    SBQQ__QuoteExtSitesController = {
+      apexClass = "SBQQ__QuoteExtSitesController"
+      enabled = true
+    }
+    SBQQ__QuoteExtSitesControllerTests = {
+      apexClass = "SBQQ__QuoteExtSitesControllerTests"
+      enabled = true
+    }
+    SBQQ__QuoteLineConsumptionImpl = {
+      apexClass = "SBQQ__QuoteLineConsumptionImpl"
+      enabled = true
+    }
+    SBQQ__QuoteLineConsumptionImplTests = {
+      apexClass = "SBQQ__QuoteLineConsumptionImplTests"
+      enabled = true
+    }
+    SBQQ__QuoteLineConsumptionRateDAO = {
+      apexClass = "SBQQ__QuoteLineConsumptionRateDAO"
+      enabled = true
+    }
+    SBQQ__QuoteLineConsumptionRateDAOTests = {
+      apexClass = "SBQQ__QuoteLineConsumptionRateDAOTests"
+      enabled = true
+    }
+    SBQQ__QuoteLineConsumptionScheduleDAO = {
+      apexClass = "SBQQ__QuoteLineConsumptionScheduleDAO"
+      enabled = true
+    }
+    SBQQ__QuoteLineConsumptionScheduleDAOTests = {
+      apexClass = "SBQQ__QuoteLineConsumptionScheduleDAOTests"
+      enabled = true
+    }
+    SBQQ__QuoteLineDAO = {
+      apexClass = "SBQQ__QuoteLineDAO"
+      enabled = true
+    }
+    SBQQ__QuoteLineDAOFactory = {
+      apexClass = "SBQQ__QuoteLineDAOFactory"
+      enabled = true
+    }
+    SBQQ__QuoteLineDAOTest = {
+      apexClass = "SBQQ__QuoteLineDAOTest"
+      enabled = true
+    }
+    SBQQ__QuoteLineEditorController = {
+      apexClass = "SBQQ__QuoteLineEditorController"
+      enabled = true
+    }
+    SBQQ__QuoteLineEditorControllerTests = {
+      apexClass = "SBQQ__QuoteLineEditorControllerTests"
+      enabled = true
+    }
+    SBQQ__QuoteLineEditorServiceProvider = {
+      apexClass = "SBQQ__QuoteLineEditorServiceProvider"
+      enabled = true
+    }
+    SBQQ__QuoteLineEditorServiceProviderTests = {
+      apexClass = "SBQQ__QuoteLineEditorServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__QuoteLineGroupDAO = {
+      apexClass = "SBQQ__QuoteLineGroupDAO"
+      enabled = true
+    }
+    SBQQ__QuoteLineGroupDAOFactory = {
+      apexClass = "SBQQ__QuoteLineGroupDAOFactory"
+      enabled = true
+    }
+    SBQQ__QuoteLineGroupDAOTests = {
+      apexClass = "SBQQ__QuoteLineGroupDAOTests"
+      enabled = true
+    }
+    SBQQ__QuoteLineGroupVO = {
+      apexClass = "SBQQ__QuoteLineGroupVO"
+      enabled = true
+    }
+    SBQQ__QuoteLineGroupVOTests = {
+      apexClass = "SBQQ__QuoteLineGroupVOTests"
+      enabled = true
+    }
+    SBQQ__QuoteLineGroupValidationTests = {
+      apexClass = "SBQQ__QuoteLineGroupValidationTests"
+      enabled = true
+    }
+    SBQQ__QuoteLineObjectTests = {
+      apexClass = "SBQQ__QuoteLineObjectTests"
+      enabled = true
+    }
+    SBQQ__QuoteLinePriceRuleEvaluator = {
+      apexClass = "SBQQ__QuoteLinePriceRuleEvaluator"
+      enabled = true
+    }
+    SBQQ__QuoteLinePriceRuleEvaluatorTests = {
+      apexClass = "SBQQ__QuoteLinePriceRuleEvaluatorTests"
+      enabled = true
+    }
+    SBQQ__QuoteLinePricingGuidanceDAO = {
+      apexClass = "SBQQ__QuoteLinePricingGuidanceDAO"
+      enabled = true
+    }
+    SBQQ__QuoteLinePricingGuidanceDAOTests = {
+      apexClass = "SBQQ__QuoteLinePricingGuidanceDAOTests"
+      enabled = true
+    }
+    SBQQ__QuoteLinePricingGuidanceVO = {
+      apexClass = "SBQQ__QuoteLinePricingGuidanceVO"
+      enabled = true
+    }
+    SBQQ__QuoteLineUBPDataProcessor = {
+      apexClass = "SBQQ__QuoteLineUBPDataProcessor"
+      enabled = true
+    }
+    SBQQ__QuoteLineUBPDataProcessorTests = {
+      apexClass = "SBQQ__QuoteLineUBPDataProcessorTests"
+      enabled = true
+    }
+    SBQQ__QuoteLineVO = {
+      apexClass = "SBQQ__QuoteLineVO"
+      enabled = true
+    }
+    SBQQ__QuoteLineVOTests = {
+      apexClass = "SBQQ__QuoteLineVOTests"
+      enabled = true
+    }
+    SBQQ__QuoteLineValidationTests = {
+      apexClass = "SBQQ__QuoteLineValidationTests"
+      enabled = true
+    }
+    SBQQ__QuoteModel = {
+      apexClass = "SBQQ__QuoteModel"
+      enabled = true
+    }
+    SBQQ__QuoteModelTests = {
+      apexClass = "SBQQ__QuoteModelTests"
+      enabled = true
+    }
+    SBQQ__QuoteOpportunitySynchronizer = {
+      apexClass = "SBQQ__QuoteOpportunitySynchronizer"
+      enabled = true
+    }
+    SBQQ__QuoteOpportunitySynchronizerTests = {
+      apexClass = "SBQQ__QuoteOpportunitySynchronizerTests"
+      enabled = true
+    }
+    SBQQ__QuotePriceHandler = {
+      apexClass = "SBQQ__QuotePriceHandler"
+      enabled = true
+    }
+    SBQQ__QuotePriceRefreshBatch = {
+      apexClass = "SBQQ__QuotePriceRefreshBatch"
+      enabled = true
+    }
+    SBQQ__QuoteProcessInitializer = {
+      apexClass = "SBQQ__QuoteProcessInitializer"
+      enabled = true
+    }
+    SBQQ__QuoteProcessInitializerTests = {
+      apexClass = "SBQQ__QuoteProcessInitializerTests"
+      enabled = true
+    }
+    SBQQ__QuoteProcessVO = {
+      apexClass = "SBQQ__QuoteProcessVO"
+      enabled = true
+    }
+    SBQQ__QuoteProcessor = {
+      apexClass = "SBQQ__QuoteProcessor"
+      enabled = true
+    }
+    SBQQ__QuoteProcessorTests = {
+      apexClass = "SBQQ__QuoteProcessorTests"
+      enabled = true
+    }
+    SBQQ__QuoteRelatedContentController = {
+      apexClass = "SBQQ__QuoteRelatedContentController"
+      enabled = true
+    }
+    SBQQ__QuoteRelatedContentControllerTests = {
+      apexClass = "SBQQ__QuoteRelatedContentControllerTests"
+      enabled = true
+    }
+    SBQQ__QuoteRestEndpoint = {
+      apexClass = "SBQQ__QuoteRestEndpoint"
+      enabled = true
+    }
+    SBQQ__QuoteRestEndpointTests = {
+      apexClass = "SBQQ__QuoteRestEndpointTests"
+      enabled = true
+    }
+    SBQQ__QuoteRuleApplicator = {
+      apexClass = "SBQQ__QuoteRuleApplicator"
+      enabled = true
+    }
+    SBQQ__QuoteRuleApplicatorTests = {
+      apexClass = "SBQQ__QuoteRuleApplicatorTests"
+      enabled = true
+    }
+    SBQQ__QuoteService = {
+      apexClass = "SBQQ__QuoteService"
+      enabled = true
+    }
+    SBQQ__QuoteServiceProvider = {
+      apexClass = "SBQQ__QuoteServiceProvider"
+      enabled = true
+    }
+    SBQQ__QuoteServiceProviderTests = {
+      apexClass = "SBQQ__QuoteServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__QuoteServiceTests = {
+      apexClass = "SBQQ__QuoteServiceTests"
+      enabled = true
+    }
+    SBQQ__QuoteSettingsModel = {
+      apexClass = "SBQQ__QuoteSettingsModel"
+      enabled = true
+    }
+    SBQQ__QuoteSortUtils = {
+      apexClass = "SBQQ__QuoteSortUtils"
+      enabled = true
+    }
+    SBQQ__QuoteTemplateDAO = {
+      apexClass = "SBQQ__QuoteTemplateDAO"
+      enabled = true
+    }
+    SBQQ__QuoteTemplateDAOTest = {
+      apexClass = "SBQQ__QuoteTemplateDAOTest"
+      enabled = true
+    }
+    SBQQ__QuoteTemplateExtController = {
+      apexClass = "SBQQ__QuoteTemplateExtController"
+      enabled = true
+    }
+    SBQQ__QuoteTemplateExtControllerTests = {
+      apexClass = "SBQQ__QuoteTemplateExtControllerTests"
+      enabled = true
+    }
+    SBQQ__QuoteTemplateTriggerTests = {
+      apexClass = "SBQQ__QuoteTemplateTriggerTests"
+      enabled = true
+    }
+    SBQQ__QuoteTemplateUtils = {
+      apexClass = "SBQQ__QuoteTemplateUtils"
+      enabled = true
+    }
+    SBQQ__QuoteTemplateUtilsTests = {
+      apexClass = "SBQQ__QuoteTemplateUtilsTests"
+      enabled = true
+    }
+    SBQQ__QuoteTermAPI = {
+      apexClass = "SBQQ__QuoteTermAPI"
+      enabled = true
+    }
+    SBQQ__QuoteTermAPITests = {
+      apexClass = "SBQQ__QuoteTermAPITests"
+      enabled = true
+    }
+    SBQQ__QuoteTermDAO = {
+      apexClass = "SBQQ__QuoteTermDAO"
+      enabled = true
+    }
+    SBQQ__QuoteTermDAOTests = {
+      apexClass = "SBQQ__QuoteTermDAOTests"
+      enabled = true
+    }
+    SBQQ__QuoteTermEditorController = {
+      apexClass = "SBQQ__QuoteTermEditorController"
+      enabled = true
+    }
+    SBQQ__QuoteTermEditorService = {
+      apexClass = "SBQQ__QuoteTermEditorService"
+      enabled = true
+    }
+    SBQQ__QuoteTermEditorServiceProvider = {
+      apexClass = "SBQQ__QuoteTermEditorServiceProvider"
+      enabled = true
+    }
+    SBQQ__QuoteTermEditorServiceTest = {
+      apexClass = "SBQQ__QuoteTermEditorServiceTest"
+      enabled = true
+    }
+    SBQQ__QuoteTermEvaluator = {
+      apexClass = "SBQQ__QuoteTermEvaluator"
+      enabled = true
+    }
+    SBQQ__QuoteTermService = {
+      apexClass = "SBQQ__QuoteTermService"
+      enabled = true
+    }
+    SBQQ__QuoteTermServiceTests = {
+      apexClass = "SBQQ__QuoteTermServiceTests"
+      enabled = true
+    }
+    SBQQ__QuoteTermTriggerTest = {
+      apexClass = "SBQQ__QuoteTermTriggerTest"
+      enabled = true
+    }
+    SBQQ__QuoteTermVO = {
+      apexClass = "SBQQ__QuoteTermVO"
+      enabled = true
+    }
+    SBQQ__QuoteTermVOTests = {
+      apexClass = "SBQQ__QuoteTermVOTests"
+      enabled = true
+    }
+    SBQQ__QuoteTermsComponentController = {
+      apexClass = "SBQQ__QuoteTermsComponentController"
+      enabled = true
+    }
+    SBQQ__QuoteTermsComponentControllerTests = {
+      apexClass = "SBQQ__QuoteTermsComponentControllerTests"
+      enabled = true
+    }
+    SBQQ__QuoteTestsBase = {
+      apexClass = "SBQQ__QuoteTestsBase"
+      enabled = true
+    }
+    SBQQ__QuoteTrigger = {
+      apexClass = "SBQQ__QuoteTrigger"
+      enabled = true
+    }
+    SBQQ__QuoteTriggerControl = {
+      apexClass = "SBQQ__QuoteTriggerControl"
+      enabled = true
+    }
+    SBQQ__QuoteTriggerTests = {
+      apexClass = "SBQQ__QuoteTriggerTests"
+      enabled = true
+    }
+    SBQQ__QuoteUtils = {
+      apexClass = "SBQQ__QuoteUtils"
+      enabled = true
+    }
+    SBQQ__QuoteUtilsTests = {
+      apexClass = "SBQQ__QuoteUtilsTests"
+      enabled = true
+    }
+    SBQQ__QuoteVO = {
+      apexClass = "SBQQ__QuoteVO"
+      enabled = true
+    }
+    SBQQ__QuoteVOTests = {
+      apexClass = "SBQQ__QuoteVOTests"
+      enabled = true
+    }
+    SBQQ__QuoteValidationTests = {
+      apexClass = "SBQQ__QuoteValidationTests"
+      enabled = true
+    }
+    SBQQ__Range = {
+      apexClass = "SBQQ__Range"
+      enabled = true
+    }
+    SBQQ__RangeTests = {
+      apexClass = "SBQQ__RangeTests"
+      enabled = true
+    }
+    SBQQ__RecommendationLookupServiceProvider = {
+      apexClass = "SBQQ__RecommendationLookupServiceProvider"
+      enabled = true
+    }
+    SBQQ__RecommendationLookupServiceProviderTests = {
+      apexClass = "SBQQ__RecommendationLookupServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__RecommendationSearchModel = {
+      apexClass = "SBQQ__RecommendationSearchModel"
+      enabled = true
+    }
+    SBQQ__RecommendationSearchModelTests = {
+      apexClass = "SBQQ__RecommendationSearchModelTests"
+      enabled = true
+    }
+    SBQQ__RecordInfo = {
+      apexClass = "SBQQ__RecordInfo"
+      enabled = true
+    }
+    SBQQ__RecordJobService = {
+      apexClass = "SBQQ__RecordJobService"
+      enabled = true
+    }
+    SBQQ__RecordJobServiceTests = {
+      apexClass = "SBQQ__RecordJobServiceTests"
+      enabled = true
+    }
+    SBQQ__RecordStatus = {
+      apexClass = "SBQQ__RecordStatus"
+      enabled = true
+    }
+    SBQQ__RecordUtils = {
+      apexClass = "SBQQ__RecordUtils"
+      enabled = true
+    }
+    SBQQ__ReferencedFieldCache = {
+      apexClass = "SBQQ__ReferencedFieldCache"
+      enabled = true
+    }
+    SBQQ__ReferencedFieldCacheTests = {
+      apexClass = "SBQQ__ReferencedFieldCacheTests"
+      enabled = true
+    }
+    SBQQ__ReferencedFieldGenerator = {
+      apexClass = "SBQQ__ReferencedFieldGenerator"
+      enabled = true
+    }
+    SBQQ__ReferencedFieldGeneratorTests = {
+      apexClass = "SBQQ__ReferencedFieldGeneratorTests"
+      enabled = true
+    }
+    SBQQ__ReferencedFieldRemover = {
+      apexClass = "SBQQ__ReferencedFieldRemover"
+      enabled = true
+    }
+    SBQQ__RefreshQuotePricesController = {
+      apexClass = "SBQQ__RefreshQuotePricesController"
+      enabled = true
+    }
+    SBQQ__RefreshQuotePricesControllerTests = {
+      apexClass = "SBQQ__RefreshQuotePricesControllerTests"
+      enabled = true
+    }
+    SBQQ__RelatedContentController = {
+      apexClass = "SBQQ__RelatedContentController"
+      enabled = true
+    }
+    SBQQ__RelatedContentControllerTests = {
+      apexClass = "SBQQ__RelatedContentControllerTests"
+      enabled = true
+    }
+    SBQQ__RelatedContentVO = {
+      apexClass = "SBQQ__RelatedContentVO"
+      enabled = true
+    }
+    SBQQ__RelatedRecordCloner = {
+      apexClass = "SBQQ__RelatedRecordCloner"
+      enabled = true
+    }
+    SBQQ__RenewContractsController = {
+      apexClass = "SBQQ__RenewContractsController"
+      enabled = true
+    }
+    SBQQ__RenewContractsControllerTests = {
+      apexClass = "SBQQ__RenewContractsControllerTests"
+      enabled = true
+    }
+    SBQQ__RenewalAPI = {
+      apexClass = "SBQQ__RenewalAPI"
+      enabled = true
+    }
+    SBQQ__RenewalQuoteGenerator = {
+      apexClass = "SBQQ__RenewalQuoteGenerator"
+      enabled = true
+    }
+    SBQQ__RenewalQuoteGeneratorTests = {
+      apexClass = "SBQQ__RenewalQuoteGeneratorTests"
+      enabled = true
+    }
+    SBQQ__RestClient = {
+      apexClass = "SBQQ__RestClient"
+      enabled = true
+    }
+    SBQQ__RestClientSettings = {
+      apexClass = "SBQQ__RestClientSettings"
+      enabled = true
+    }
+    SBQQ__RestClientTests = {
+      apexClass = "SBQQ__RestClientTests"
+      enabled = true
+    }
+    SBQQ__RichTextComponentController = {
+      apexClass = "SBQQ__RichTextComponentController"
+      enabled = true
+    }
+    SBQQ__RichTextComponentControllerTests = {
+      apexClass = "SBQQ__RichTextComponentControllerTests"
+      enabled = true
+    }
+    SBQQ__RichTextToFOConverter = {
+      apexClass = "SBQQ__RichTextToFOConverter"
+      enabled = true
+    }
+    SBQQ__RichTextToFOConverterTests = {
+      apexClass = "SBQQ__RichTextToFOConverterTests"
+      enabled = true
+    }
+    SBQQ__RootIdSetterChildAssets = {
+      apexClass = "SBQQ__RootIdSetterChildAssets"
+      enabled = true
+    }
+    SBQQ__RootIdSetterChildSubscriptions = {
+      apexClass = "SBQQ__RootIdSetterChildSubscriptions"
+      enabled = true
+    }
+    SBQQ__RootIdSetterParentAssets = {
+      apexClass = "SBQQ__RootIdSetterParentAssets"
+      enabled = true
+    }
+    SBQQ__RootIdSetterParentSubscriptions = {
+      apexClass = "SBQQ__RootIdSetterParentSubscriptions"
+      enabled = true
+    }
+    SBQQ__RuleAPI = {
+      apexClass = "SBQQ__RuleAPI"
+      enabled = true
+    }
+    SBQQ__RuleAPITests = {
+      apexClass = "SBQQ__RuleAPITests"
+      enabled = true
+    }
+    SBQQ__RuleActionListener = {
+      apexClass = "SBQQ__RuleActionListener"
+      enabled = true
+    }
+    SBQQ__RuleListener = {
+      apexClass = "SBQQ__RuleListener"
+      enabled = true
+    }
+    SBQQ__RuleProcessorSupport = {
+      apexClass = "SBQQ__RuleProcessorSupport"
+      enabled = true
+    }
+    SBQQ__RuleProcessorSupportTests2 = {
+      apexClass = "SBQQ__RuleProcessorSupportTests2"
+      enabled = true
+    }
+    SBQQ__RuleSummaryUtil = {
+      apexClass = "SBQQ__RuleSummaryUtil"
+      enabled = true
+    }
+    SBQQ__RuleTriggerControl = {
+      apexClass = "SBQQ__RuleTriggerControl"
+      enabled = true
+    }
+    SBQQ__SObjectListModel = {
+      apexClass = "SBQQ__SObjectListModel"
+      enabled = true
+    }
+    SBQQ__SObjectListModelTests = {
+      apexClass = "SBQQ__SObjectListModelTests"
+      enabled = true
+    }
+    SBQQ__SObjectListOptionModel = {
+      apexClass = "SBQQ__SObjectListOptionModel"
+      enabled = true
+    }
+    SBQQ__SObjectListOptionModelTests = {
+      apexClass = "SBQQ__SObjectListOptionModelTests"
+      enabled = true
+    }
+    SBQQ__SObjectUtils = {
+      apexClass = "SBQQ__SObjectUtils"
+      enabled = true
+    }
+    SBQQ__SObjectUtilsTests = {
+      apexClass = "SBQQ__SObjectUtilsTests"
+      enabled = true
+    }
+    SBQQ__SampleServiceProvider = {
+      apexClass = "SBQQ__SampleServiceProvider"
+      enabled = true
+    }
+    SBQQ__SaveCalculatedQuoteCallback = {
+      apexClass = "SBQQ__SaveCalculatedQuoteCallback"
+      enabled = true
+    }
+    SBQQ__SaveQuote = {
+      apexClass = "SBQQ__SaveQuote"
+      enabled = true
+    }
+    SBQQ__SaveRequeryRollbackServiceProvider = {
+      apexClass = "SBQQ__SaveRequeryRollbackServiceProvider"
+      enabled = true
+    }
+    SBQQ__SchemaUtils = {
+      apexClass = "SBQQ__SchemaUtils"
+      enabled = true
+    }
+    SBQQ__SchemaUtilsTests = {
+      apexClass = "SBQQ__SchemaUtilsTests"
+      enabled = true
+    }
+    SBQQ__SearchFilter = {
+      apexClass = "SBQQ__SearchFilter"
+      enabled = true
+    }
+    SBQQ__SearchFilterDAO = {
+      apexClass = "SBQQ__SearchFilterDAO"
+      enabled = true
+    }
+    SBQQ__SearchFilterDAOTest = {
+      apexClass = "SBQQ__SearchFilterDAOTest"
+      enabled = true
+    }
+    SBQQ__SearchFilterInitializer = {
+      apexClass = "SBQQ__SearchFilterInitializer"
+      enabled = true
+    }
+    SBQQ__SearchFilterInitializerTests = {
+      apexClass = "SBQQ__SearchFilterInitializerTests"
+      enabled = true
+    }
+    SBQQ__SearchIndexDAO = {
+      apexClass = "SBQQ__SearchIndexDAO"
+      enabled = true
+    }
+    SBQQ__SectionComponentController = {
+      apexClass = "SBQQ__SectionComponentController"
+      enabled = true
+    }
+    SBQQ__SectionComponentControllerTests = {
+      apexClass = "SBQQ__SectionComponentControllerTests"
+      enabled = true
+    }
+    SBQQ__SecurityUtils = {
+      apexClass = "SBQQ__SecurityUtils"
+      enabled = true
+    }
+    SBQQ__SecurityUtilsTests = {
+      apexClass = "SBQQ__SecurityUtilsTests"
+      enabled = true
+    }
+    SBQQ__SelectContractController = {
+      apexClass = "SBQQ__SelectContractController"
+      enabled = true
+    }
+    SBQQ__SelectContractOppController = {
+      apexClass = "SBQQ__SelectContractOppController"
+      enabled = true
+    }
+    SBQQ__SelectContractOppControllerTests = {
+      apexClass = "SBQQ__SelectContractOppControllerTests"
+      enabled = true
+    }
+    SBQQ__SelectOptionModel = {
+      apexClass = "SBQQ__SelectOptionModel"
+      enabled = true
+    }
+    SBQQ__ServiceCloud = {
+      apexClass = "SBQQ__ServiceCloud"
+      enabled = true
+    }
+    SBQQ__ServiceLoader = {
+      apexClass = "SBQQ__ServiceLoader"
+      enabled = true
+    }
+    SBQQ__ServiceReader = {
+      apexClass = "SBQQ__ServiceReader"
+      enabled = true
+    }
+    SBQQ__ServiceRouter = {
+      apexClass = "SBQQ__ServiceRouter"
+      enabled = true
+    }
+    SBQQ__ServiceSaver = {
+      apexClass = "SBQQ__ServiceSaver"
+      enabled = true
+    }
+    SBQQ__SettingsEditorController = {
+      apexClass = "SBQQ__SettingsEditorController"
+      enabled = true
+    }
+    SBQQ__SettingsEditorControllerTests = {
+      apexClass = "SBQQ__SettingsEditorControllerTests"
+      enabled = true
+    }
+    SBQQ__SettingsExtension = {
+      apexClass = "SBQQ__SettingsExtension"
+      enabled = true
+    }
+    SBQQ__SettingsExtensionTests = {
+      apexClass = "SBQQ__SettingsExtensionTests"
+      enabled = true
+    }
+    SBQQ__SettingsHolder = {
+      apexClass = "SBQQ__SettingsHolder"
+      enabled = true
+    }
+    SBQQ__SettingsVO = {
+      apexClass = "SBQQ__SettingsVO"
+      enabled = true
+    }
+    SBQQ__SettingsVOAPI = {
+      apexClass = "SBQQ__SettingsVOAPI"
+      enabled = true
+    }
+    SBQQ__SettingsVOTests = {
+      apexClass = "SBQQ__SettingsVOTests"
+      enabled = true
+    }
+    SBQQ__SimpleServiceProvider = {
+      apexClass = "SBQQ__SimpleServiceProvider"
+      enabled = true
+    }
+    SBQQ__SolutionGroupModel = {
+      apexClass = "SBQQ__SolutionGroupModel"
+      enabled = true
+    }
+    SBQQ__SolutionGroupModelTests = {
+      apexClass = "SBQQ__SolutionGroupModelTests"
+      enabled = true
+    }
+    SBQQ__StateCountryPicklistUtil = {
+      apexClass = "SBQQ__StateCountryPicklistUtil"
+      enabled = true
+    }
+    SBQQ__StringTokenizer = {
+      apexClass = "SBQQ__StringTokenizer"
+      enabled = true
+    }
+    SBQQ__StringTokenizerListener = {
+      apexClass = "SBQQ__StringTokenizerListener"
+      enabled = true
+    }
+    SBQQ__StringUtils = {
+      apexClass = "SBQQ__StringUtils"
+      enabled = true
+    }
+    SBQQ__StringUtilsTests = {
+      apexClass = "SBQQ__StringUtilsTests"
+      enabled = true
+    }
+    SBQQ__SubscribedAssetService = {
+      apexClass = "SBQQ__SubscribedAssetService"
+      enabled = true
+    }
+    SBQQ__SubscribedAssetVO = {
+      apexClass = "SBQQ__SubscribedAssetVO"
+      enabled = true
+    }
+    SBQQ__SubscriptionConsumptionImpl = {
+      apexClass = "SBQQ__SubscriptionConsumptionImpl"
+      enabled = true
+    }
+    SBQQ__SubscriptionConsumptionImplTests = {
+      apexClass = "SBQQ__SubscriptionConsumptionImplTests"
+      enabled = true
+    }
+    SBQQ__SubscriptionDAO = {
+      apexClass = "SBQQ__SubscriptionDAO"
+      enabled = true
+    }
+    SBQQ__SubscriptionDAOTests = {
+      apexClass = "SBQQ__SubscriptionDAOTests"
+      enabled = true
+    }
+    SBQQ__SubscriptionLookupController = {
+      apexClass = "SBQQ__SubscriptionLookupController"
+      enabled = true
+    }
+    SBQQ__SubscriptionLookupControllerTests = {
+      apexClass = "SBQQ__SubscriptionLookupControllerTests"
+      enabled = true
+    }
+    SBQQ__SubscriptionLookupServiceProvider = {
+      apexClass = "SBQQ__SubscriptionLookupServiceProvider"
+      enabled = true
+    }
+    SBQQ__SubscriptionLookupServiceProviderTests = {
+      apexClass = "SBQQ__SubscriptionLookupServiceProviderTests"
+      enabled = true
+    }
+    SBQQ__SubscriptionSearchModel = {
+      apexClass = "SBQQ__SubscriptionSearchModel"
+      enabled = true
+    }
+    SBQQ__SubscriptionService = {
+      apexClass = "SBQQ__SubscriptionService"
+      enabled = true
+    }
+    SBQQ__SubscriptionServiceTests = {
+      apexClass = "SBQQ__SubscriptionServiceTests"
+      enabled = true
+    }
+    SBQQ__SubscriptionVO = {
+      apexClass = "SBQQ__SubscriptionVO"
+      enabled = true
+    }
+    SBQQ__SummaryRowComponentController = {
+      apexClass = "SBQQ__SummaryRowComponentController"
+      enabled = true
+    }
+    SBQQ__SummaryRowComponentControllerTests = {
+      apexClass = "SBQQ__SummaryRowComponentControllerTests"
+      enabled = true
+    }
+    SBQQ__SummaryVarRefFieldGenerator = {
+      apexClass = "SBQQ__SummaryVarRefFieldGenerator"
+      enabled = true
+    }
+    SBQQ__SummaryVariableCalculator = {
+      apexClass = "SBQQ__SummaryVariableCalculator"
+      enabled = true
+    }
+    SBQQ__SummaryVariableCalculatorTests = {
+      apexClass = "SBQQ__SummaryVariableCalculatorTests"
+      enabled = true
+    }
+    SBQQ__SummaryVariableDAO = {
+      apexClass = "SBQQ__SummaryVariableDAO"
+      enabled = true
+    }
+    SBQQ__SummaryVariableServiceProvider = {
+      apexClass = "SBQQ__SummaryVariableServiceProvider"
+      enabled = true
+    }
+    SBQQ__SummaryVariableTrigger = {
+      apexClass = "SBQQ__SummaryVariableTrigger"
+      enabled = true
+    }
+    SBQQ__SynchronousProductServices = {
+      apexClass = "SBQQ__SynchronousProductServices"
+      enabled = true
+    }
+    SBQQ__TaxExemptionCertificateObjectManager = {
+      apexClass = "SBQQ__TaxExemptionCertificateObjectManager"
+      enabled = true
+    }
+    SBQQ__TaxExemptionCertificateTriggerTests = {
+      apexClass = "SBQQ__TaxExemptionCertificateTriggerTests"
+      enabled = true
+    }
+    SBQQ__TemplateContentExtController = {
+      apexClass = "SBQQ__TemplateContentExtController"
+      enabled = true
+    }
+    SBQQ__TemplateContentExtControllerTests = {
+      apexClass = "SBQQ__TemplateContentExtControllerTests"
+      enabled = true
+    }
+    SBQQ__TemplateContentTriggerTests = {
+      apexClass = "SBQQ__TemplateContentTriggerTests"
+      enabled = true
+    }
+    SBQQ__TemplateSectionTriggerTests = {
+      apexClass = "SBQQ__TemplateSectionTriggerTests"
+      enabled = true
+    }
+    SBQQ__TemplateSectionVO = {
+      apexClass = "SBQQ__TemplateSectionVO"
+      enabled = true
+    }
+    SBQQ__TemplateSectionVOFactory = {
+      apexClass = "SBQQ__TemplateSectionVOFactory"
+      enabled = true
+    }
+    SBQQ__TemplateVO = {
+      apexClass = "SBQQ__TemplateVO"
+      enabled = true
+    }
+    SBQQ__TemplateVOFactory = {
+      apexClass = "SBQQ__TemplateVOFactory"
+      enabled = true
+    }
+    SBQQ__TemplateVOFactoryTests = {
+      apexClass = "SBQQ__TemplateVOFactoryTests"
+      enabled = true
+    }
+    SBQQ__TestCalloutMock = {
+      apexClass = "SBQQ__TestCalloutMock"
+      enabled = true
+    }
+    SBQQ__TestDocumentStorePlugin = {
+      apexClass = "SBQQ__TestDocumentStorePlugin"
+      enabled = true
+    }
+    SBQQ__TestRestClient = {
+      apexClass = "SBQQ__TestRestClient"
+      enabled = true
+    }
+    SBQQ__TestUtil = {
+      apexClass = "SBQQ__TestUtil"
+      enabled = true
+    }
+    SBQQ__ThemeAfterTriggerTests = {
+      apexClass = "SBQQ__ThemeAfterTriggerTests"
+      enabled = true
+    }
+    SBQQ__ThemeBeforeTriggerTests = {
+      apexClass = "SBQQ__ThemeBeforeTriggerTests"
+      enabled = true
+    }
+    SBQQ__ThemeDocumentService = {
+      apexClass = "SBQQ__ThemeDocumentService"
+      enabled = true
+    }
+    SBQQ__ThemeDocumentServiceTests = {
+      apexClass = "SBQQ__ThemeDocumentServiceTests"
+      enabled = true
+    }
+    SBQQ__ThemeExtension = {
+      apexClass = "SBQQ__ThemeExtension"
+      enabled = true
+    }
+    SBQQ__ThemeExtensionTests = {
+      apexClass = "SBQQ__ThemeExtensionTests"
+      enabled = true
+    }
+    SBQQ__ThemeLookupController = {
+      apexClass = "SBQQ__ThemeLookupController"
+      enabled = true
+    }
+    SBQQ__ThemeService = {
+      apexClass = "SBQQ__ThemeService"
+      enabled = true
+    }
+    SBQQ__ThemeSettingsController = {
+      apexClass = "SBQQ__ThemeSettingsController"
+      enabled = true
+    }
+    SBQQ__ThemeSettingsControllerTests = {
+      apexClass = "SBQQ__ThemeSettingsControllerTests"
+      enabled = true
+    }
+    SBQQ__TimingStack = {
+      apexClass = "SBQQ__TimingStack"
+      enabled = true
+    }
+    SBQQ__TimingStackTests = {
+      apexClass = "SBQQ__TimingStackTests"
+      enabled = true
+    }
+    SBQQ__TransactionConsumptionRateValidator = {
+      apexClass = "SBQQ__TransactionConsumptionRateValidator"
+      enabled = true
+    }
+    SBQQ__TransactionConsumptionRateValidatorTests = {
+      apexClass = "SBQQ__TransactionConsumptionRateValidatorTests"
+      enabled = true
+    }
+    SBQQ__TransactionConsumptionScheduleValidator = {
+      apexClass = "SBQQ__TransactionConsumptionScheduleValidator"
+      enabled = true
+    }
+    SBQQ__TransportDigest = {
+      apexClass = "SBQQ__TransportDigest"
+      enabled = true
+    }
+    SBQQ__TransportDigestTests = {
+      apexClass = "SBQQ__TransportDigestTests"
+      enabled = true
+    }
+    SBQQ__Tree = {
+      apexClass = "SBQQ__Tree"
+      enabled = true
+    }
+    SBQQ__TreeSet = {
+      apexClass = "SBQQ__TreeSet"
+      enabled = true
+    }
+    SBQQ__TriggerControl = {
+      apexClass = "SBQQ__TriggerControl"
+      enabled = true
+    }
+    SBQQ__TriggerControlTests = {
+      apexClass = "SBQQ__TriggerControlTests"
+      enabled = true
+    }
+    SBQQ__TrxConsumptionScheduleValidatorTests = {
+      apexClass = "SBQQ__TrxConsumptionScheduleValidatorTests"
+      enabled = true
+    }
+    SBQQ__TwinFieldMapper = {
+      apexClass = "SBQQ__TwinFieldMapper"
+      enabled = true
+    }
+    SBQQ__TwinFieldMapperTests = {
+      apexClass = "SBQQ__TwinFieldMapperTests"
+      enabled = true
+    }
+    SBQQ__UBPEditorRecordLoader = {
+      apexClass = "SBQQ__UBPEditorRecordLoader"
+      enabled = true
+    }
+    SBQQ__UBPEditorRecordLoaderTests = {
+      apexClass = "SBQQ__UBPEditorRecordLoaderTests"
+      enabled = true
+    }
+    SBQQ__UBPResultHolder = {
+      apexClass = "SBQQ__UBPResultHolder"
+      enabled = true
+    }
+    SBQQ__UIOriginalRecord = {
+      apexClass = "SBQQ__UIOriginalRecord"
+      enabled = true
+    }
+    SBQQ__UpgradeController = {
+      apexClass = "SBQQ__UpgradeController"
+      enabled = true
+    }
+    SBQQ__UploadRelatedContentController = {
+      apexClass = "SBQQ__UploadRelatedContentController"
+      enabled = true
+    }
+    SBQQ__UploadRelatedContentControllerTests = {
+      apexClass = "SBQQ__UploadRelatedContentControllerTests"
+      enabled = true
+    }
+    SBQQ__UserPermUtils = {
+      apexClass = "SBQQ__UserPermUtils"
+      enabled = true
+    }
+    SBQQ__Utils = {
+      apexClass = "SBQQ__Utils"
+      enabled = true
+    }
+    SBQQ__UtilsTests = {
+      apexClass = "SBQQ__UtilsTests"
+      enabled = true
+    }
+    SBQQ__ValidationException = {
+      apexClass = "SBQQ__ValidationException"
+      enabled = true
+    }
+    SBQQ__Versionable = {
+      apexClass = "SBQQ__Versionable"
+      enabled = true
+    }
+  }
+}

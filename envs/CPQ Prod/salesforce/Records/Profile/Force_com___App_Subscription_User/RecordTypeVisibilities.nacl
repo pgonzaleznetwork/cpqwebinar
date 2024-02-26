@@ -1,0 +1,24 @@
+salesforce.Profile Force_2Ecom___App_Subscription_User@psbsss {
+  recordTypeVisibilities = {
+    Idea = {
+      InternalIdeasIdeaRecordType = {
+        default = false
+        recordType = "Idea.InternalIdeasIdeaRecordType"
+        visible = false
+      }
+    }
+    SBQQ__ConfigurationAttribute__c = {
+      SBQQ__Configuration_Attribute = {
+        default = false
+        recordType = "SBQQ__ConfigurationAttribute__c.SBQQ__Configuration_Attribute"
+        visible = false
+      }
+      SBQQ__Global_Attribute = {
+        default = false
+        recordType = "SBQQ__ConfigurationAttribute__c.SBQQ__Global_Attribute"
+        visible = false
+      }
+    }
+    
+  }
+}
